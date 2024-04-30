@@ -7,7 +7,7 @@ gnuplot -c box.gp
 
 Generate csv example:
 ```
-./dates.sh | sed 's/ /,/g;1i date,tweets,likes' > out.csv
+./dates.sh | sed 's/ /,/g;1i date,tweets,likes' > elonmusk.csv
 ```
 ![elonmusk graph](/elonmusk.png)
 
