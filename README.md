@@ -14,6 +14,8 @@ Generate csv example:
 timestamp is when it was scraped (bot scrapes every 7mins), timestamp in parens
 is source tweet day and time of the week it was posted.
 
+TZ = america/los_angeles
+
 ![elonmusk graph](/elonmusk.png)
 
 Top 20 users `@elonmusk` has 'liked':
