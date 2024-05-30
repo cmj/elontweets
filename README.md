@@ -19,28 +19,28 @@ TZ = america/los_angeles
 ![elonmusk graph](/elonmusk.png)
 
 Top 20 users `@elonmusk` has 'liked':
-```
-1   1410  @cb_doge
-2   737   @teslaownersSV
-3   435   @BillyM2k
-4   352   @WholeMarsBlog
-5   315   @EvaFoxU
-6   313   @Teslaconomics
-7   290   @SawyerMerritt
-8   275   @dogeofficialceo
-9   266   @Rainmaker1973
-10  233   @GailAlfarATX
-11  220   @stclairashley
-12  191   @alx
-13  186   @SpaceX
-14  177   @TheRabbitHole84
-15  171   @stillgray
-16  168   @farzyness
-17  158   @Kristennetten
-18  158   @dvorahfr
-19  156   @xDaily
-20  155   @andst7
-```
+Rank|Likes|User
+---|---|---
+1   |1536 |@cb_doge
+2   |766  |@teslaownersSV
+3   |441  |@BillyM2k
+4   |370  |@WholeMarsBlog
+5   |331  |@Teslaconomics
+6   |323  |@EvaFoxU
+7   |310  |@SawyerMerritt
+8   |280  |@dogeofficialceo
+9   |276  |@Rainmaker1973
+10  |239  |@GailAlfarATX
+11  |231  |@stclairashley
+12  |197  |@alx
+13  |192  |@SpaceX
+14  |184  |@MarioNawfal
+15  |182  |@stillgray
+16  |181  |@TheRabbitHole84
+17  |170  |@farzyness
+18  |163  |@dvorahfr
+19  |162  |@Kristennetten
+20  |159  |@xDaily
 
 Todo:
 - use xdata time 
