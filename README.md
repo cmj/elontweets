@@ -46,3 +46,6 @@ Rank|Likes|User
 
 Todo:
 - use xdata time 
+
+See also:
+- Automated [Elon Musk friends tracker](https://github.com/cmj/emt)
