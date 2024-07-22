@@ -42,5 +42,5 @@ set offset 1,1,1,1
 
 plot sum = init(0), "master.dat" using 2 t "tweets", '' using 3 t "likes", \
   '' using 1:($2 > 100 ? $2 : 1/0):2:(sprintf('%d', $2)) with labels point lc rgb '#5f5fd7' pt 7 tc rgb 'white' offset char 1,1 notitle lc rgb 'white'
-  '' using 1:(avg5($3)) with histogram linestyle 2 title '5 points avg'
-  '' using 1:(sum = sum + $2, sum/($0+1)) linestyle 3 title 'total avg'
+#'' using 1:(avg5($3)) with histogram linestyle 2 title '5 points avg'
+#'' using 1:(sum = sum + $2, sum/($0+1)) linestyle 3 title 'total avg'
