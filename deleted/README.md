@@ -1,80 +1,80 @@
 [Thu Aug 08, 2024 09:00:46 UTC] “Detainment Camps” … https://x.com/_/status/1821471603819212836
 
- src="screenshots/1821471603819212836.png" width="300">
+<img src="screenshots/1821471603819212836.png" width="300">
 
 [Mon Aug 05, 2024 02:28:24 UTC] @ajtourville 🐼 https://x.com/_/status/1820285699410559242
 
- src="screenshots/1820285699410559242.png" width="300">
+<img src="screenshots/1820285699410559242.png" width="300">
 
 [Tue Jul 30, 2024 18:43:49 UTC] If this gains momentum, the rightfully elected President will replace the fraudster https://x.com/_/status/1818356844752175574
 
- src="screenshots/1818356844752175574.png" width="300">
+<img src="screenshots/1818356844752175574.png" width="300">
 
 [Mon Jul 29, 2024 14:20:50 UTC] RT @farzyness: On desktop with incognito on in Chrome: https://pbs.twimg.com/media/GTqS4c9XAAEv5JX.jpg (photo) https://x.com/_/status/1817928273260904742
 
 [Mon Jul 29, 2024 03:42:16 UTC] This is messed up https://x.com/_/status/1817767574592950763
 
- src="screenshots/1817767574592950763.png" width="300">
+<img src="screenshots/1817767574592950763.png" width="300">
 
 [Sat Jul 27, 2024 07:48:38 UTC] Isn’t technology amazing? 😉 https://pbs.twimg.com/media/GTenLtdWEAANEcG.jpg (photo) https://x.com/_/status/1817104797511635402
 
- src="screenshots/1817104797511635402.png" width="300">
+<img src="screenshots/1817104797511635402.png" width="300">
 
 [Thu Jul 18, 2024 17:31:33 UTC] This movie will be a hit! (Oops, it missed) https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) https://x.com/_/status/1813990001962877171
 
- src="screenshots/1813990001962877171.png" width="300">
+<img src="screenshots/1813990001962877171.png" width="300">
 
 [Thu Jul 18, 2024 17:23:49 UTC] This movie will be a HIT!! https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) https://x.com/_/status/1813988055427989508
 
- src="screenshots/1813988055427989508.png" width="300">
+<img src="screenshots/1813988055427989508.png" width="300">
 
 [Sun Jul 14, 2024 01:26:50 UTC] So before being put in charge of protecting the PRESIDENT, she was guarding bags of Cheetos … https://x.com/_/status/1812297671119638647
 
- src="screenshots/1812297671119638647.png" width="300">
+<img src="screenshots/1812297671119638647.png" width="300">
 
 [Sun Jun 02, 2024 07:52:40 UTC] RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJTtb0AAaoXp.jpg (photo) https://x.com/_/status/1797174479736414490
 
- src="screenshots/1797174479736414490.png" width="300">
+<img src="screenshots/1797174479736414490.png" width="300">
 
 [Mon May 27, 2024 06:00:06 UTC] @SawyerMerritt Pre-money valuation was $16B https://x.com/_/status/1794971826042355802
 
- src="screenshots/1794971826042355802.png" width="300">
+<img src="screenshots/1794971826042355802.png" width="300">
 
 [Thu May 23, 2024 06:17:25 UTC] @BillAckman @Uber Whoa, this is dark https://x.com/_/status/1793526631983890586
 
- src="screenshots/1793526631983890586.png" width="300">
+<img src="screenshots/1793526631983890586.png" width="300">
 
 [Mon May 20, 2024 20:03:34 UTC] Post your family pics on 𝕏! We care & do more to fight child exploitation than any other platform by far. https://pbs.twimg.com/media/GODDR-QXUAAsdL0.jpg (photo) https://x.com/_/status/1792647374122176605
 
- src="screenshots/1792647374122176605.png" width="300">
+<img src="screenshots/1792647374122176605.png" width="300">
 
 [Fri May 10, 2024 18:13:19 UTC] RT @pmarca: Please enjoy @bhorowitz and me answering questions on the current state of AI! 00:01:14 - How AI startups can compete with the… https://x.com/_/status/1788995750010995079
 
- src="screenshots/1788995750010995079.png" width="300">
+<img src="screenshots/1788995750010995079.png" width="300">
 
 [Mon May 06, 2024 16:44:19 UTC] Boeing got $4.2 billion to develop an astronaut space capsule. SpaceX got $2.6 billion and finished 7 years faster. Too many non-technical managers at Boeing. https://x.com/_/status/1787523801070326120
 
- src="screenshots/1787523801070326120.png" width="300">
+<img src="screenshots/1787523801070326120.png" width="300">
 
 [Tue Apr 23, 2024 04:09:16 UTC] kek https://pbs.twimg.com/media/GL0l8GNXEAEKPDx.jpg (photo) https://x.com/_/status/1782622746179936353
 
- src="screenshots/1782622746179936353.png" width="300">
+<img src="screenshots/1782622746179936353.png" width="300">
 
 [Fri Apr 19, 2024 17:53:30 UTC] @libsoftiktok Was he protesting against the trial or for it? https://x.com/_/status/1781380620267954569
 
- src="screenshots/1781380620267954569.png" width="300">
+<img src="screenshots/1781380620267954569.png" width="300">
 
 [Tue Apr 09, 2024 16:41:31 UTC] RT @eyeslasho: Read this. NPR veteran describes the transformation of NPR from a news to an activist organization after Trump's election:… https://x.com/_/status/1777738625750384930
 
- src="screenshots/1777738625750384930.png" width="300">
+<img src="screenshots/1777738625750384930.png" width="300">
 
 [Mon Apr 08, 2024 18:35:41 UTC] https://t.co/an0qdZkt3X https://x.com/i/broadcasts/1mrGmyZdOWgGy https://x.com/_/status/1777404965557768647
 
- src="screenshots/1777404965557768647.png" width="300">
+<img src="screenshots/1777404965557768647.png" width="300">
 
 [Fri Apr 05, 2024 20:53:25 UTC] @GailAlfarATX Indeed. This secret program that bypasses the border entirely was only discovered by a random freedom of information act request. And the administration, now that they’ve been caught, is keeping this going and defending it to the death! https://x.com/_/status/1776352467636376027
 
- src="screenshots/1776352467636376027.png" width="300">
+<img src="screenshots/1776352467636376027.png" width="300">
 
 [Mon Apr 01, 2024 19:14:22 UTC] @TheBabylonBee 😂 https://x.com/_/status/1774877987759948085
 
@@ -82,51 +82,51 @@
 
 [Mon Mar 11, 2024 09:27:25 UTC] Mad Max is looking increasingly like an *optimistic* take lol https://pbs.twimg.com/media/GIYSZSXWoAERcE5.jpg (photo) https://x.com/_/status/1767120132378083391
 
- src="screenshots/1767120132378083391.png" width="300">
+<img src="screenshots/1767120132378083391.png" width="300">
 
 [Thu Mar 07, 2024 16:22:03 UTC] Accurate https://x.com/_/status/1765774926223442301
 
- src="screenshots/1765774926223442301.png" width="300">
+<img src="screenshots/1765774926223442301.png" width="300">
 
 [Wed Mar 06, 2024 23:42:58 UTC] @eyeslasho: “Super rich ex-wives who hate their former spouse” should filed be listed among “Reasons that Western Civilization died” https://x.com/_/status/1765523497764495843
 
- src="screenshots/1765523497764495843.png" width="300">
+<img src="screenshots/1765523497764495843.png" width="300">
 
 [Wed Mar 06, 2024 18:09:24 UTC] @tomrahme9: Hits on many levels 😂 https://x.com/_/status/1765439553735696833
 
- src="screenshots/1765439553735696833.png" width="300">
+<img src="screenshots/1765439553735696833.png" width="300">
 
 [Tue Mar 05, 2024 15:24:58 UTC] Sorry to bother everyone with this note, as it applies to people in the greater Austin area, but please go to the polls and vote for a new District Attorney! https://x.com/_/status/1765035782774137074
 
- src="screenshots/1765035782774137074.png" width="300">
+<img src="screenshots/1765035782774137074.png" width="300">
 
 [Sun Feb 25, 2024 17:56:38 UTC] @GregAbbott_TX: Wow, this is insane https://x.com/elonmusk/status/1761812459982111106
 
 [Fri Feb 23, 2024 21:44:40 UTC] RIP Harambe https://x.com/elonmusk/status/1761145071175372838
 
- src="screenshots/1761145071175372838.png" width="300">
+<img src="screenshots/1761145071175372838.png" width="300">
 
 [Fri Feb 23, 2024 02:09:51 UTC] [vid] https://x.com/elonmusk/status/1760849418591547618
 
- src="screenshots/1760849418591547618.png" width="300">
+<img src="screenshots/1760849418591547618.png" width="300">
 
 [Tue Jan 09, 2024 00:59:36 UTC] @elonmusk: The only way to prove he is not racist AND sexist is to put an Asian woman and a white woman on his basketball team! https://x.com/elonmusk/status/1744524285601816878
 
- src="screenshots/1744524285601816878.png" width="300">
+<img src="screenshots/1744524285601816878.png" width="300">
 
 [Tue Jan 09, 2024 00:41:05 UTC] Mark Cuban is a racist https://x.com/elonmusk/status/1744519626367623579
 
- src="screenshots/1744519626367623579.png" width="300">
+<img src="screenshots/1744519626367623579.png" width="300">
 
 [Sat Dec 02, 2023 01:45:10 UTC] @BillyM2k: The “Irish Times” clearly hates the Irish people https://x.com/elonmusk/status/1730765017451004103
 
 [Tue Nov 28, 2023 14:49:57 UTC] @elonmusk: nbcnews.com/news/amp/rcna955… https://x.com/elonmusk/status/1729512960937042038
 
- src="screenshots/1729512960937042038.png" width="300">
+<img src="screenshots/1729512960937042038.png" width="300">
 
 [Tue Nov 28, 2023 14:45:18 UTC] Does seem at least a little suspicious https://x.com/elonmusk/status/1729511790638145918
 
- src="screenshots/1729511790638145918.png" width="300">
+<img src="screenshots/1729511790638145918.png" width="300">
 
 [Tue Nov 28, 2023 04:10:30 UTC] What say you major brands? https://x.com/cb_doge/status/1729352040088744233
 
