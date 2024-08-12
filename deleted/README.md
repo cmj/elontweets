@@ -1,72 +1,132 @@
-[24/08/08 02:06:13] @elonmusk - “Detainment Camps” … (Thu 02:00:46) https://x.com/_/status/1821471603819212836 <img src="screenshots/1821471603819212836.png" width="300">
+[24/08/08 02:06:13] @elonmusk - “Detainment Camps” … (Thu 02:00:46) https://x.com/_/status/1821471603819212836
 
-[24/08/04 19:29:17] @elonmusk - @ajtourville 🐼 (Sun 19:28:24) https://x.com/_/status/1820285699410559242 <img src="screenshots/1820285699410559242.png" width="300">
+<img src="screenshots/1821471603819212836.png" width="300">
 
-[24/07/30 11:47:19] @elonmusk - If this gains momentum, the rightfully elected President will replace the fraudster (Tue 11:43:49) https://x.com/_/status/1818356844752175574 <img src="screenshots/1818356844752175574.png" width="300">
+[24/08/04 19:29:17] @elonmusk - @ajtourville 🐼 (Sun 19:28:24) https://x.com/_/status/1820285699410559242
+
+<img src="screenshots/1820285699410559242.png" width="300">
+
+[24/07/30 11:47:19] @elonmusk - If this gains momentum, the rightfully elected President will replace the fraudster (Tue 11:43:49) https://x.com/_/status/1818356844752175574
+
+<img src="screenshots/1818356844752175574.png" width="300">
 
 [24/07/29 07:21:19] @elonmusk - RT @farzyness: On desktop with incognito on in Chrome: https://pbs.twimg.com/media/GTqS4c9XAAEv5JX.jpg (photo) (Mon 07:20:50) https://x.com/_/status/1817928273260904742
 
-[24/07/28 20:46:12] @elonmusk - This is messed up (Sun 20:42:16) https://x.com/_/status/1817767574592950763 <img src="screenshots/1817767574592950763.png" width="300">
+[24/07/28 20:46:12] @elonmusk - This is messed up (Sun 20:42:16) https://x.com/_/status/1817767574592950763
 
-[24/07/27 00:49:06] @elonmusk - Isn’t technology amazing? 😉 https://pbs.twimg.com/media/GTenLtdWEAANEcG.jpg (photo) (Sat 00:48:38) https://x.com/_/status/1817104797511635402 <img src="screenshots/1817104797511635402.png" width="300">
+<img src="screenshots/1817767574592950763.png" width="300">
 
-[24/07/18 10:37:19] @elonmusk - This movie will be a hit! (Oops, it missed) https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) (Thu 10:31:33) https://x.com/_/status/1813990001962877171 <img src="screenshots/1813990001962877171.png" width="300">
+[24/07/27 00:49:06] @elonmusk - Isn’t technology amazing? 😉 https://pbs.twimg.com/media/GTenLtdWEAANEcG.jpg (photo) (Sat 00:48:38) https://x.com/_/status/1817104797511635402
 
-[24/07/18 10:30:34] @elonmusk - This movie will be a HIT!! https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) (Thu 10:23:49) https://x.com/_/status/1813988055427989508 <img src="screenshots/1813988055427989508.png" width="300">
+<img src="screenshots/1817104797511635402.png" width="300">
 
-[24/07/13 18:33:19] @elonmusk - So before being put in charge of protecting the PRESIDENT, she was guarding bags of Cheetos … (Sat 18:26:50) https://x.com/_/status/1812297671119638647 <img src="screenshots/1812297671119638647.png" width="300">
+[24/07/18 10:37:19] @elonmusk - This movie will be a hit! (Oops, it missed) https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) (Thu 10:31:33) https://x.com/_/status/1813990001962877171
 
-[24/06/02 00:56:07] @elonmusk - RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJTtb0AAaoXp.jpg (photo) (Sun 00:52:40) https://x.com/_/status/1797174479736414490 <img src="screenshots/1797174479736414490.png" width="300">
+<img src="screenshots/1813990001962877171.png" width="300">
 
-[24/05/26 23:06:08] @elonmusk - @SawyerMerritt Pre-money valuation was $16B (Sun 23:00:06) https://x.com/_/status/1794971826042355802 <img src="screenshots/1794971826042355802.png" width="300">
+[24/07/18 10:30:34] @elonmusk - This movie will be a HIT!! https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) (Thu 10:23:49) https://x.com/_/status/1813988055427989508
 
-[24/05/22 23:20:24] @elonmusk - @BillAckman @Uber Whoa, this is dark (Wed 23:17:25) https://x.com/_/status/1793526631983890586 <img src="screenshots/1793526631983890586.png" width="300">
+<img src="screenshots/1813988055427989508.png" width="300">
 
-[24/05/20 13:04:18] @elonmusk - Post your family pics on 𝕏! We care & do more to fight child exploitation than any other platform by far. https://pbs.twimg.com/media/GODDR-QXUAAsdL0.jpg (photo) (Mon 13:03:34) https://x.com/_/status/1792647374122176605 <img src="screenshots/1792647374122176605.png" width="300">
+[24/07/13 18:33:19] @elonmusk - So before being put in charge of protecting the PRESIDENT, she was guarding bags of Cheetos … (Sat 18:26:50) https://x.com/_/status/1812297671119638647
 
-[24/05/10 11:19:41] @elonmusk - RT @pmarca: Please enjoy @bhorowitz and me answering questions on the current state of AI! 00:01:14 - How AI startups can compete with the… (Fri 11:13:19) https://x.com/_/status/1788995750010995079 <img src="screenshots/1788995750010995079.png" width="300">
+<img src="screenshots/1812297671119638647.png" width="300">
 
-[24/05/06 09:48:17] @elonmusk - Boeing got $4.2 billion to develop an astronaut space capsule. SpaceX got $2.6 billion and finished 7 years faster. Too many non-technical managers at Boeing. (Mon 09:44:19) https://x.com/_/status/1787523801070326120 <img src="screenshots/1787523801070326120.png" width="300">
+[24/06/02 00:56:07] @elonmusk - RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJTtb0AAaoXp.jpg (photo) (Sun 00:52:40) https://x.com/_/status/1797174479736414490
 
-[24/04/22 21:14:13] @elonmusk - kek https://pbs.twimg.com/media/GL0l8GNXEAEKPDx.jpg (photo) (Mon 21:09:16) https://x.com/_/status/1782622746179936353 <img src="screenshots/1782622746179936353.png" width="300">
+<img src="screenshots/1797174479736414490.png" width="300">
 
-[24/04/19 10:58:17] @elonmusk - @libsoftiktok Was he protesting against the trial or for it? (Fri 10:53:30) https://x.com/_/status/1781380620267954569 <img src="screenshots/1781380620267954569.png" width="300">
+[24/05/26 23:06:08] @elonmusk - @SawyerMerritt Pre-money valuation was $16B (Sun 23:00:06) https://x.com/_/status/1794971826042355802
 
-[24/04/09 09:48:18] @elonmusk - RT @eyeslasho: Read this. NPR veteran describes the transformation of NPR from a news to an activist organization after Trump's election:… (Tue 09:41:31) https://x.com/_/status/1777738625750384930 <img src="screenshots/1777738625750384930.png" width="300">
+<img src="screenshots/1794971826042355802.png" width="300">
 
-[24/04/08 11:40:21] @elonmusk - https://t.co/an0qdZkt3X https://twitter.com/i/broadcasts/1mrGmyZdOWgGy (Mon 11:35:41) https://x.com/_/status/1777404965557768647 <img src="screenshots/1777404965557768647.png" width="300">
+[24/05/22 23:20:24] @elonmusk - @BillAckman @Uber Whoa, this is dark (Wed 23:17:25) https://x.com/_/status/1793526631983890586
 
-[24/04/05 14:00:31] @elonmusk - @GailAlfarATX Indeed.  This secret program that bypasses the border entirely was only discovered by a random freedom of information act request.  And the administration, now that they’ve been caught, is keeping this going and defending it to the death! (Fri 13:53:25) https://x.com/_/status/1776352467636376027 <img src="screenshots/1776352467636376027.png" width="300">
+<img src="screenshots/1793526631983890586.png" width="300">
+
+[24/05/20 13:04:18] @elonmusk - Post your family pics on 𝕏! We care & do more to fight child exploitation than any other platform by far. https://pbs.twimg.com/media/GODDR-QXUAAsdL0.jpg (photo) (Mon 13:03:34) https://x.com/_/status/1792647374122176605
+
+<img src="screenshots/1792647374122176605.png" width="300">
+
+[24/05/10 11:19:41] @elonmusk - RT @pmarca: Please enjoy @bhorowitz and me answering questions on the current state of AI! 00:01:14 - How AI startups can compete with the… (Fri 11:13:19) https://x.com/_/status/1788995750010995079
+
+<img src="screenshots/1788995750010995079.png" width="300">
+
+[24/05/06 09:48:17] @elonmusk - Boeing got $4.2 billion to develop an astronaut space capsule. SpaceX got $2.6 billion and finished 7 years faster. Too many non-technical managers at Boeing. (Mon 09:44:19) https://x.com/_/status/1787523801070326120
+
+<img src="screenshots/1787523801070326120.png" width="300">
+
+[24/04/22 21:14:13] @elonmusk - kek https://pbs.twimg.com/media/GL0l8GNXEAEKPDx.jpg (photo) (Mon 21:09:16) https://x.com/_/status/1782622746179936353
+
+<img src="screenshots/1782622746179936353.png" width="300">
+
+[24/04/19 10:58:17] @elonmusk - @libsoftiktok Was he protesting against the trial or for it? (Fri 10:53:30) https://x.com/_/status/1781380620267954569
+
+<img src="screenshots/1781380620267954569.png" width="300">
+
+[24/04/09 09:48:18] @elonmusk - RT @eyeslasho: Read this. NPR veteran describes the transformation of NPR from a news to an activist organization after Trump's election:… (Tue 09:41:31) https://x.com/_/status/1777738625750384930
+
+<img src="screenshots/1777738625750384930.png" width="300">
+
+[24/04/08 11:40:21] @elonmusk - https://t.co/an0qdZkt3X https://twitter.com/i/broadcasts/1mrGmyZdOWgGy (Mon 11:35:41) https://x.com/_/status/1777404965557768647
+
+<img src="screenshots/1777404965557768647.png" width="300">
+
+[24/04/05 14:00:31] @elonmusk - @GailAlfarATX Indeed.  This secret program that bypasses the border entirely was only discovered by a random freedom of information act request.  And the administration, now that they’ve been caught, is keeping this going and defending it to the death! (Fri 13:53:25) https://x.com/_/status/1776352467636376027
+
+<img src="screenshots/1776352467636376027.png" width="300">
 
 [24/04/01 12:15:30] @elonmusk - @TheBabylonBee 😂 (Mon 12:14:22) https://x.com/_/status/1774877987759948085
 
 [24/03/11 11:33:06] @elonmusk - So maybe we let in some cannibal gangs. What could possibly go wrong? 🤷♂️ https://twitter.com/mattwalshshow/status/1767256747540893893
 
-[24/03/11 02:34:03] @elonmusk - Mad Max is looking increasingly like an *optimistic* take lol https://pbs.twimg.com/media/GIYSZSXWoAERcE5.jpg (photo) (Mon 02:27:25) https://x.com/_/status/1767120132378083391 <img src="screenshots/1767120132378083391.png" width="300">
+[24/03/11 02:34:03] @elonmusk - Mad Max is looking increasingly like an *optimistic* take lol https://pbs.twimg.com/media/GIYSZSXWoAERcE5.jpg (photo) (Mon 02:27:25) https://x.com/_/status/1767120132378083391
 
-[24/03/07 08:31:05] @elonmusk - Accurate (Thu 08:22:03) https://x.com/_/status/1765774926223442301 <img src="screenshots/1765774926223442301.png" width="300">
+<img src="screenshots/1767120132378083391.png" width="300">
 
-[24/03/06 15:52:06] @elonmusk - @eyeslasho: “Super rich ex-wives who hate their former spouse” should filed be listed among “Reasons that Western Civilization died” (Wed 15:42:58) https://x.com/_/status/1765523497764495843 <img src="screenshots/1765523497764495843.png" width="300">
+[24/03/07 08:31:05] @elonmusk - Accurate (Thu 08:22:03) https://x.com/_/status/1765774926223442301
 
-[24/03/06 10:16:01] @elonmusk - @tomrahme9: Hits on many levels 😂 (Wed 10:09:24) https://x.com/_/status/1765439553735696833 <img src="screenshots/1765439553735696833.png" width="300">
+<img src="screenshots/1765774926223442301.png" width="300">
 
-[24/03/05 07:35:08] @elonmusk - Sorry to bother everyone with this note, as it applies to people in the greater Austin area, but please go to the polls and vote for a new District Attorney! (Tue 07:24:58) https://x.com/_/status/1765035782774137074 <img src="screenshots/1765035782774137074.png" width="300">
+[24/03/06 15:52:06] @elonmusk - @eyeslasho: “Super rich ex-wives who hate their former spouse” should filed be listed among “Reasons that Western Civilization died” (Wed 15:42:58) https://x.com/_/status/1765523497764495843
+
+<img src="screenshots/1765523497764495843.png" width="300">
+
+[24/03/06 10:16:01] @elonmusk - @tomrahme9: Hits on many levels 😂 (Wed 10:09:24) https://x.com/_/status/1765439553735696833
+
+<img src="screenshots/1765439553735696833.png" width="300">
+
+[24/03/05 07:35:08] @elonmusk - Sorry to bother everyone with this note, as it applies to people in the greater Austin area, but please go to the polls and vote for a new District Attorney! (Tue 07:24:58) https://x.com/_/status/1765035782774137074
+
+<img src="screenshots/1765035782774137074.png" width="300">
 
 [24/02/25 10:02:04] @elonmusk - @GregAbbott_TX: Wow, this is insane (Sun 09:56:38) https://twitter.com/elonmusk/status/1761812459982111106
 
-[24/02/23 13:46:04] @elonmusk - RIP Harambe (Fri 13:44:40) https://twitter.com/elonmusk/status/1761145071175372838 <img src="screenshots/1761145071175372838.png" width="300">
+[24/02/23 13:46:04] @elonmusk - RIP Harambe (Fri 13:44:40) https://twitter.com/elonmusk/status/1761145071175372838
 
-[24/02/22 18:12:09] @elonmusk - [vid] (Thu 18:09:51) https://twitter.com/elonmusk/status/1760849418591547618 <img src="screenshots/1760849418591547618.png" width="300">
+<img src="screenshots/1761145071175372838.png" width="300">
 
-[24/01/08 17:09:08] @elonmusk - @elonmusk: The only way to prove he is not racist AND sexist is to put an Asian woman and a white woman on his basketball team! (Mon 16:59:36) https://twitter.com/elonmusk/status/1744524285601816878 <img src="screenshots/1744524285601816878.png" width="300">
+[24/02/22 18:12:09] @elonmusk - [vid] (Thu 18:09:51) https://twitter.com/elonmusk/status/1760849418591547618
 
-[24/01/08 16:55:11] @elonmusk - Mark Cuban is a racist (Mon 16:41:05) https://twitter.com/elonmusk/status/1744519626367623579 <img src="screenshots/1744519626367623579.png" width="300">
+<img src="screenshots/1760849418591547618.png" width="300">
+
+[24/01/08 17:09:08] @elonmusk - @elonmusk: The only way to prove he is not racist AND sexist is to put an Asian woman and a white woman on his basketball team! (Mon 16:59:36) https://twitter.com/elonmusk/status/1744524285601816878
+
+<img src="screenshots/1744524285601816878.png" width="300">
+
+[24/01/08 16:55:11] @elonmusk - Mark Cuban is a racist (Mon 16:41:05) https://twitter.com/elonmusk/status/1744519626367623579
+
+<img src="screenshots/1744519626367623579.png" width="300">
 
 [23/12/01 17:51:19] @elonmusk - @BillyM2k: The “Irish Times” clearly hates the Irish people (Fri 17:45:10) https://twitter.com/elonmusk/status/1730765017451004103
 
-[23/11/28 07:00:05] @elonmusk - @elonmusk: nbcnews.com/news/amp/rcna955… (Tue 06:49:57) https://twitter.com/elonmusk/status/1729512960937042038 <img src="screenshots/1729512960937042038.png" width="300">
+[23/11/28 07:00:05] @elonmusk - @elonmusk: nbcnews.com/news/amp/rcna955… (Tue 06:49:57) https://twitter.com/elonmusk/status/1729512960937042038
 
-[23/11/28 06:46:03] @elonmusk - Does seem at least a little suspicious (Tue 06:45:18) https://twitter.com/elonmusk/status/1729511790638145918 <img src="screenshots/1729511790638145918.png" width="300">
+<img src="screenshots/1729512960937042038.png" width="300">
+
+[23/11/28 06:46:03] @elonmusk - Does seem at least a little suspicious (Tue 06:45:18) https://twitter.com/elonmusk/status/1729511790638145918
+
+<img src="screenshots/1729511790638145918.png" width="300">
 
 [23/11/27 20:18:08] @elonmusk - What say you major brands? https://twitter.com/cb_doge/status/1729352040088744233
 
