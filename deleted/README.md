@@ -1,3 +1,11 @@
+[Tue Aug 13, 2024 23:16:07 UTC]
+
+ @Jason @GOP @KamalaHarris Makes sense https://x.com/_/status/1823498801900085709
+
+<img src="screenshots/1823498801900085709.png" width="300">
+
+---
+
 [Thu Aug 08, 2024 09:00:46 UTC]
 
  “Detainment Camps” … https://x.com/_/status/1821471603819212836
