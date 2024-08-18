@@ -2,7 +2,7 @@ set title 'Elon Musk - Tweets and Likes'
 set xlabel ' ' tc rgb 'white'
 set ylabel 'Activity per day' tc rgb 'white'
 set obj 4 rect 
-set label 4 at 327.5,745 "\\@elonmusk tweets and likes\nLast 90-day average: 59 tweets, 162 likes per day" center offset 0,.5 tc rgb 'white'
+set label 4 at 328,745 "\\@elonmusk tweets and likes\nLast 90-day average: 59 tweets, 162 likes per day" center offset 0,.5 tc rgb 'white'
 
 set grid lc rgb 'white' linewidth 1.0
 set key tc rgb 'white' below center horizontal noreverse enhanced autotitle box dashtype solid lc rgb 'white'
@@ -10,9 +10,9 @@ set tics out nomirror
 set border 3 front linetype rgb 'white' linewidth 1.0 dashtype solid
 set samples 2000, 2000
 
-set xrange [1:655]
+set xrange [1:656]
 
-set xtics 1000 rotate by 50 right offset 0,-1 add ("2022-11-01" 1, "2022-12-01" 31, "2023-01-01" 62, "2023-02-01" 93, "2023-03-01" 121, "2023-04-01" 152, "2023-05-01" 182, "2023-06-01" 213, "2023-07-01" 243, "2023-08-01" 274, "2023-09-01" 305, "2023-10-01" 335, "2023-11-01" 366, "2023-12-01" 396, "2024-01-01" 427, "2024-02-01" 458, "2024-03-01" 487, "2024-04-01" 518, "2024-05-01" 548, "2024-06-01" 579, "2024-07-01" 609, "2024-08-01" 640, "2024-08-16" 655)
+set xtics 1000 rotate by 50 right offset 0,-1 add ("2022-11-01" 1, "2022-12-01" 31, "2023-01-01" 62, "2023-02-01" 93, "2023-03-01" 121, "2023-04-01" 152, "2023-05-01" 182, "2023-06-01" 213, "2023-07-01" 243, "2023-08-01" 274, "2023-09-01" 305, "2023-10-01" 335, "2023-11-01" 366, "2023-12-01" 396, "2024-01-01" 427, "2024-02-01" 458, "2024-03-01" 487, "2024-04-01" 518, "2024-05-01" 548, "2024-06-01" 579, "2024-07-01" 609, "2024-08-01" 640, "2024-08-17" 656)
 set ytics 20
 set y2tics 4
 set yrange [0:730]
