@@ -1,3 +1,11 @@
+[Mon Sep 16, 2024 00:41:05 UTC]
+
+@elonmusk (Elon Musk)【𝗕】: And no one is even trying to assassinate Biden/Kamala 🤔 | ↳ 1,699 ⇅ 1,542 ♥ 9,697 🡕 504,865 | Twitter for iPhone | https://twitter.com/elonmusk/status/1835478980830572884
+
+<img src="screenshots/1835478980830572884.png" width="300">
+
+---
+
 [Tue Sep 03, 2024 06:34:01 UTC]
 
 @elonmusk - Very interesting. Worth watching. (Mon 23:34:01) https://x.com/_/status/1830856758505402374
