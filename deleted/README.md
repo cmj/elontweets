@@ -1,3 +1,19 @@
+[Tue Sep 17, 2024 00:50:54 UTC]
+
+@elonmusk - Spaces with @realDonaldTrump tonight! (Mon 17:50:54) https://x.com/_/status/1835843839208116499
+
+<img src="screenshots/1835843839208116499.png" width="300">
+
+---
+
+[Tue Sep 17, 2024 00:42:08 UTC]
+
+@elonmusk - Assassination is censorship in the limit (Mon 17:42:08) https://x.com/_/status/1835841632110809172
+
+<img src="screenshots/1835841632110809172.png" width="300">
+
+---
+
 [Mon Sep 16, 2024 00:41:05 UTC]
 
 @elonmusk (Elon Musk)【𝗕】: And no one is even trying to assassinate Biden/Kamala 🤔 | ↳ 1,699 ⇅ 1,542 ♥ 9,697 🡕 504,865 | Twitter for iPhone | https://twitter.com/elonmusk/status/1835478980830572884
