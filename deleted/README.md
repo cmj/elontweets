@@ -1,3 +1,11 @@
+#### [Wed Sep 18, 2024 05:08:08 UTC]
+
+@elonmusk - Starlink technology is head and shoulders above anything else (Tue 22:08:08) https://x.com/_/status/1836270964465918227
+
+<img src="screenshots/1836270964465918227.png" width="300">
+
+---
+
 #### [Tue Sep 17, 2024 00:50:54 UTC]
 
 @elonmusk - Spaces with @realDonaldTrump tonight! (Mon 17:50:54) https://x.com/_/status/1835843839208116499
