@@ -20,6 +20,12 @@ TZ = america/los_angeles
 
 ![elonmusk graph](/elonmusk.png)
 
+### Deleted Tweets
+
+Screenshots of (most) [deleteted tweets](deleted/)
+
+---
+
 Top 20 users `@elonmusk` has 'liked':
 Rank|Likes|User
 ---|---|---
