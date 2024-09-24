@@ -1,3 +1,19 @@
+#### [Mon Sep 23, 2024 06:34:32 UTC]
+
+@elonmusk - RT @JeffClarkUS: It’s been several weeks and still no Democrat or member of the press has taken up my challenge of posting a transcript of… https://x.com/_/status/1838104643584369122
+
+<img src="screenshots/1838104643584369122.png" width="300">
+
+---
+
+#### [Sun Sep 22, 2024 02:31:44 UTC]
+
+@elonmusk - @RealXHabib Wow, eyebrows really matter 😂 https://x.com/_/status/183768115468353584
+
+<img src="screenshots/1837681154683535841.png" width="300">
+
+---
+
 #### [Wed Sep 18, 2024 05:08:08 UTC]
 
 @elonmusk - Starlink technology is head and shoulders above anything else (Tue 22:08:08) https://x.com/_/status/1836270964465918227
