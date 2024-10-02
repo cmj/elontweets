@@ -1,3 +1,11 @@
+#### [Tue Oct 01, 2024 17:13:06 UTC]
+
+@elonmusk - https://t.co/9EaASIobEQ https://pbs.twimg.com/ext_tw_video_thumb/1841160395559497735/pu/img/hZsO_LWotUALYcD2.jpg (video) https://x.com/_/status/1841164447244517489
+
+<img src="screenshots/1841164447244517489.png" width="300">
+
+---
+
 #### [Mon Sep 23, 2024 06:34:32 UTC]
 
 @elonmusk - RT @JeffClarkUS: It’s been several weeks and still no Democrat or member of the press has taken up my challenge of posting a transcript of… https://x.com/_/status/1838104643584369122
