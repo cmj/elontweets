@@ -1,5 +1,5 @@
 <table>
-<tr><th>Most Tweets Per Day</th><th>Combined Tweets And Likes</th></tr><tr><td>
+<tr><th>Tweets Per Day</th><th>Combined Tweets And Likes</th></tr><tr><td>
 
 
 |#|Date|Tweets ▼|Likes|Total|
