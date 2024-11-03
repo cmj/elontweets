@@ -1,3 +1,19 @@
+#### [Sat Nov 02, 2024 20:09:53 UTC]
+
+@elonmusk - John Wick just wanted peace, but then killed his innocent, beloved dog … (Sat 13:09:53) https://x.com/_/status/1852805349973098557
+
+<img src="screenshots/1852805349973098557.png" width="300">
+
+---
+
+#### [Sat Nov 02, 2024 18:43:10 UTC]
+
+@elonmusk - You don’t hate the legacy media enough (Sat 11:43:10) https://x.com/_/status/1852783528016011566
+
+<img src="screenshots/1852783528016011566.png" width="300">
+
+---
+
 #### [Tue Oct 01, 2024 17:13:06 UTC]
 
 @elonmusk - https://t.co/9EaASIobEQ https://pbs.twimg.com/ext_tw_video_thumb/1841160395559497735/pu/img/hZsO_LWotUALYcD2.jpg (video) https://x.com/_/status/1841164447244517489
