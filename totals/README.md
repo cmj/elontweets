@@ -1,3 +1,9 @@
+## Last month
+Tweets: 3409 (110 per day)
+
+Likes: 7426 (240 per day)
+
+## Overall
 <table>
 <tr><th>Most Tweets Per Day</th><th>Combined Tweets And Likes</th></tr><tr><td>
 
