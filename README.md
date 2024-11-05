@@ -1,24 +1,22 @@
 # elontweets
-Gnuplot graph showing elonmusk likes and tweets.
-
-```
-gnuplot -c box.gp
-```
-
-Generate csv example:
-```
-./dates.sh | sed 's/ /,/g;1i date,tweets,likes' > elonmusk.csv
-```
-
-Datawrapper visualization: https://datawrapper.dwcdn.net/Qp2Ff/1/
-
-[elon_likes.txt](/elon_likes.txt) contains likes since ~Jan 2023. Bracket
-timestamp is when it was scraped (bot scrapes every 7mins), timestamp in parens
-is source tweet day and time of the week it was posted.
-
-TZ = america/los_angeles
+### Gnuplot graph showing elonmusk likes and tweets.
 
 ![elonmusk graph](/elonmusk.png)
+
+Generate graph:
+
+```
+$ gnuplot -c box.gp
+```
+
+### Notes
+ - [/totals](/totals) shows rolling month statistics and sorted daily-max tables. 
+ - [elon_likes.txt](/elon_likes.txt) contains Likes since 2023-01-16 until 2024-06-13
+ - [elonmusk.csv](/elonmusk.csv) is a daily tweets and likes csv file.
+ - [stats-5m.csv](/stats-5m.csv) contains activity in 5 minute intervals.
+ - [tweets.txt](/tweets.txt) stores (almost) all tweets since 2022-11-01
+ - Retweets stored in [retweets.txt](/retweets.txt) and tweet IDs in [ids.dat](/ids.dat)
+ - Timezone is America/Los_Angeles. However, converting to America/Chicago (CST6CDT) is considered.
 
 ### Deleted Tweets
 
@@ -26,32 +24,8 @@ Screenshots of (most) [deleteted tweets](deleted/)
 
 ---
 
-Top 20 users `@elonmusk` has 'liked':
-Rank|Likes|User
----|---|---
-1   |1536 |@cb_doge
-2   |766  |@teslaownersSV
-3   |441  |@BillyM2k
-4   |370  |@WholeMarsBlog
-5   |331  |@Teslaconomics
-6   |323  |@EvaFoxU
-7   |310  |@SawyerMerritt
-8   |280  |@dogeofficialceo
-9   |276  |@Rainmaker1973
-10  |239  |@GailAlfarATX
-11  |231  |@stclairashley
-12  |197  |@alx
-13  |192  |@SpaceX
-14  |184  |@MarioNawfal
-15  |182  |@stillgray
-16  |181  |@TheRabbitHole84
-17  |170  |@farzyness
-18  |163  |@dvorahfr
-19  |162  |@Kristennetten
-20  |159  |@xDaily
-
 Todo:
-- use xdata time 
+ - Use xdata time. 
 
 See also:
-- Automated [Elon Musk friends tracker](https://github.com/cmj/emt)
+ - Automated [Elon Musk friends tracker](https://github.com/cmj/emt)
