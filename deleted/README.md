@@ -1,3 +1,35 @@
+#### [Tue Nov 05, 2024 20:12:04 UTC]
+
+@elonmusk - I just tried this myself and Google still shows you whereto vote for Harris, but not Trump, even when anonymous https://pbs.twimg.com/ext_tw_video_thumb/1853893012897570816/pu/img/eqka_PLIlql7YT6A.jpg (video) (Tue 12:12:04) https://x.com/_/status/1853893064236183619
+
+<img src="screenshots/1853893064236183619.png" width="300">
+
+---
+
+#### [Tue Nov 05, 2024 20:03:52 UTC]
+
+@elonmusk - This is messed up (Tue 12:03:52) https://x.com/_/status/1853890997911990686
+
+<img src="screenshots/1853890997911990686.png" width="300">
+
+---
+
+#### [Tue Nov 05, 2024 20:02:33 UTC]
+
+@elonmusk - 🤨 (Tue 12:02:33) https://x.com/_/status/1853890669649031584
+
+<img src="screenshots/1853890669649031584.png" width="300">
+
+---
+
+#### [Tue Nov 05, 2024 19:29:46 UTC]
+
+@elonmusk - Are others seeing this too? (Tue 11:29:46) https://x.com/_/status/1853882417888829829
+
+<img src="screenshots/1853882417888829829.png" width="300">
+
+---
+
 #### [Sat Nov 02, 2024 20:09:53 UTC]
 
 @elonmusk - John Wick just wanted peace, but then killed his innocent, beloved dog … (Sat 13:09:53) https://x.com/_/status/1852805349973098557
