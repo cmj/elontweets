@@ -1,7 +1,7 @@
 ## Last Month
-Tweets: 3798 (123 per day)
+Tweets: 3750 (125 per day)
 
-Likes: 8186 (264 per day)
+Likes: 8120 (271 per day)
 
 ## Overall
 <table>
