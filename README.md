@@ -1,5 +1,5 @@
 # elontweets
-### Gnuplot graph showing elonmusk likes and tweets.
+#### Gnuplot graph showing @elonmusk likes and tweets.
 
 ![elonmusk graph](/elonmusk.png)
 
