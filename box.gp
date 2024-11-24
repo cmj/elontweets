@@ -2,7 +2,7 @@ set title 'Elon Musk - Tweets and Likes'
 set xlabel ' ' tc rgb 'white'
 set ylabel 'Activity per day' tc rgb 'white'
 set obj 4 rect 
-set label 4 at 377,745 "\\@elonmusk tweets and likes\nLast 90-day average: 110 tweets, 268 likes per day" center offset 0,.5 tc rgb 'white'
+set label 4 at 377,905 "\\@elonmusk tweets and likes\nLast 90-day average: 110 tweets, 268 likes per day" center offset 0,.5 tc rgb 'white'
 
 set grid lc rgb 'white' linewidth 1.0
 set key tc rgb 'white' below center horizontal noreverse enhanced autotitle box dashtype solid lc rgb 'white'
