@@ -1,3 +1,75 @@
+#### [Fri Dec 27, 2024 23:43:06 UTC]
+
+@elonmusk - @jeffhalm wtf are you taking about? https://x.com/_/status/1872790339762962656
+
+<img src="screenshots/1872790339762962656.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:54:09 UTC]
+
+@elonmusk - @sadreturn Liar https://x.com/_/status/1872762921279008794
+
+<img src="screenshots/1872762921279008794.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:53:02 UTC]
+
+@elonmusk - @randompudge_sol @sadreturn Exactly https://x.com/_/status/1872762639031648382
+
+<img src="screenshots/1872762639031648382.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:49:39 UTC]
+
+@elonmusk - @sadreturn Where did you find this lie? https://x.com/_/status/1872761789299273747
+
+<img src="screenshots/1872761789299273747.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:48:28 UTC]
+
+@elonmusk - @sadreturn That is a lie. Do you make this lie? https://x.com/_/status/1872761491235192860
+
+<img src="screenshots/1872761491235192860.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:38:51 UTC]
+
+@elonmusk - @UnfiltdTruth This fake is a deliberate lie. Do you make it? https://x.com/_/status/1872759072782729271
+
+<img src="screenshots/1872759072782729271.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:34:27 UTC]
+
+@elonmusk - @Josh__Hamm Tracing the fake post to source. Where did you see it? https://x.com/_/status/1872757964140139005
+
+<img src="screenshots/1872757964140139005.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 21:29:44 UTC]
+
+@elonmusk - @Josh__Hamm Did you get fooled or are you deliberately showing a fake post? https://x.com/_/status/1872756778599059515
+
+<img src="screenshots/1872756778599059515.png" width="300">
+
+---
+
+#### [Fri Dec 27, 2024 01:41:28 UTC]
+
+@elonmusk - @AutismCapital That pretty much sums it up.  This was eye-opening. https://x.com/_/status/1872457740955918750
+
+<img src="screenshots/1872457740955918750.png" width="300">
+
+---
+
 #### [Sat Nov 16, 2024 05:01:47 UTC]
 
 @elonmusk - Cool (Fri 21:01:47) https://x.com/_/status/1857650247352119784
