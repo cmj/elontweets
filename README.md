@@ -20,7 +20,7 @@ $ gnuplot -c box.gp
 
 ### Deleted Tweets
 
-Screenshots of (most) [deleteted tweets](deleted/)
+Screenshots of (most) [deleted tweets](deleted/)
 
 ### App / device statistics
 
@@ -41,6 +41,8 @@ Screenshots of (most) [deleteted tweets](deleted/)
 
 Todo:
  - Use xdata time. 
+ - Shorten graph timespan.
+ - Dynamic sources (chartjs?)
 
 See also:
  - Automated [Elon Musk friends tracker](https://github.com/cmj/emt)
