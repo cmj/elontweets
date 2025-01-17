@@ -22,6 +22,21 @@ $ gnuplot -c box.gp
 
 Screenshots of (most) [deleteted tweets](deleted/)
 
+### App / device statistics
+
+|Tweets|Source|
+|--:|--|
+|53594|Twitter for iPhone|
+|387|Twitter Web Client|
+|153|Twitter Web App|
+|91|Instagram|
+|10|Twitter for Websites|
+|9|iOS|
+|7|Periscope|
+|4|Mobile Web|
+|3|Photos on iOS|
+|1|Tweetlogix|
+
 ---
 
 Todo:
