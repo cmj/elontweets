@@ -1,3 +1,27 @@
+#### [Thu Jan 16, 2025 08:06:04 UTC]
+
+@elonmusk - @stillgray @ScreamheartTV @AceofSpadesHQ I’m on hundreds of streams on YouTube/Twitch playing live with the world’s best players.  No other way to say this, but, while Asmon IS good at caustic commentary and making fun of people, he is NOT good at video games 🤷‍♂️ https://x.com/_/status/1879802284546408610
+
+<img src="screenshots/1879802284546408610.png" width="300">
+
+---
+
+#### [Thu Jan 16, 2025 07:59:10 UTC]
+
+@elonmusk - @ScreamheartTV Here’s me doing a world record Diablo AoZ clear with @AceofSpadesHQ on stream https://t.co/CGgAMh8gB1 https://m.youtube.com/watch?v=rUuxHu3J1HM&pp=ygUcRGlhYmxvIHdvcmxkIHJlY29yZCBlbG9ubXVzaw%3D%3D https://x.com/_/status/1879800550113587500
+
+<img src="screenshots/1879800550113587500.png" width="300">
+
+---
+
+#### [Thu Jan 16, 2025 07:50:26 UTC]
+
+@elonmusk - @ScreamheartTV Asmon behaves like a maverick “independent”, but in reality has to ask his boss for permission before he can do anything. He is not his own man. https://x.com/_/status/1879798348993237046
+
+<img src="screenshots/1879798348993237046.png" width="300">
+
+---
+
 #### [Fri Dec 27, 2024 23:43:06 UTC]
 
 @elonmusk - @jeffhalm wtf are you taking about? https://x.com/_/status/1872790339762962656
