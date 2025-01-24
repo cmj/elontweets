@@ -94,6 +94,30 @@
 
 ---
 
+#### [Tue Dec 10, 2024 05:51:43 UTC]
+
+@elonmusk - @Asmongold @pcgamer Big change from Diablo where the stores just sell useless trash at a high price https://x.com/_/status/1866360123985215583
+
+<img src="screenshots/1866360123985215583.png" width="300">
+
+---
+
+#### [Sun Dec 01, 2024 06:57:04 UTC]
+
+@elonmusk - @Asmongold 💯 https://x.com/_/status/1863115079073640761
+
+<img src="screenshots/1863115079073640761.png" width="300">
+
+---
+
+#### [Tue Nov 26, 2024 23:56:34 UTC]
+
+@elonmusk - @Asmongold 😂💯 https://x.com/_/status/1861559705610658062
+
+<img src="screenshots/1861559705610658062.png" width="300">
+
+---
+
 #### [Sat Nov 16, 2024 05:01:47 UTC]
 
 @elonmusk - Cool (Fri 21:01:47) https://x.com/_/status/1857650247352119784
