@@ -1,3 +1,31 @@
+#### [Sun Feb 02, 2025 18:02:22 UTC]
+
+@elonmusk - Very weird … https://x.com/_/status/1886112944020148610
+
+<img src="screenshots/1886112944020148610.png" width="300">
+
+(Full quoted tweet)
+
+<img src="screenshots/1886053939717509540-qt.png" width="200">
+
+---
+
+#### [Sun Feb 02, 2025 16:50:01 UTC]
+
+@elonmusk - As the saying goes, follow the money … That is exactly what we will do. https://x.com/_/status/1886094736932454767
+
+<img src="screenshots/1886094736932454767.png" width="300">
+
+---
+
+#### [Sun Feb 02, 2025 16:48:59 UTC]
+
+@elonmusk - Todd Young is a deep state puppet. https://x.com/_/status/1886094474201206804
+
+<img src="screenshots/1886094474201206804.png" width="300">
+
+---
+
 #### [Thu Jan 16, 2025 08:06:04 UTC]
 
 @elonmusk - @stillgray @ScreamheartTV @AceofSpadesHQ I’m on hundreds of streams on YouTube/Twitch playing live with the world’s best players.  No other way to say this, but, while Asmon IS good at caustic commentary and making fun of people, he is NOT good at video games 🤷‍♂️ https://x.com/_/status/1879802284546408610
