@@ -26,6 +26,14 @@
 
 ---
 
+#### [Sun Feb 02, 2025 16:27:42 UTC]
+
+@elonmusk - Extremely concerning.  NED is RIFE with CORRUPTION!! What is going on here? @SenToddYoung https://x.com/_/status/1886089119773720695
+
+<img src="screenshots/1886089119773720695.png" width="300">
+
+---
+
 #### [Thu Jan 16, 2025 08:06:04 UTC]
 
 @elonmusk - @stillgray @ScreamheartTV @AceofSpadesHQ I’m on hundreds of streams on YouTube/Twitch playing live with the world’s best players.  No other way to say this, but, while Asmon IS good at caustic commentary and making fun of people, he is NOT good at video games 🤷‍♂️ https://x.com/_/status/1879802284546408610
