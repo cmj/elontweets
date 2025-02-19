@@ -1,3 +1,11 @@
+#### [Wed Feb 19, 2025 04:54:27 UTC]
+
+@elonmusk - Wait, why are American taxpayers covering 2/3 of the defense costs of Europe? That doesn’t make sense.  Defense from who? https://x.com/_/status/1892075249857937582
+
+<img src="screenshots/1892075249857937582.png" width="300">
+
+---
+
 #### [Wed Feb 05, 2025 21:52:18 UTC]
 
 @elonmusk - Wow https://x.com/_/status/1887257971580633095
