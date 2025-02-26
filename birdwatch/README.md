@@ -1,5 +1,5 @@
 ### Screenshots
-/screenshots
+[screenshots](/birdwatch/screenshots) Shown notes on Twitter
 
 ### Top Birdwatch users
 Top note submitters on Elon Musk tweets (Feb 2025)
