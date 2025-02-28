@@ -1,3 +1,20 @@
+#### [Fri Feb 28, 2025 03:29:06 UTC]
+
+@elonmusk - Try Grok voice personalities and update the app every few days, as it is rapidly improving.  Prepare for a wild ride! https://x.com/_/status/1895315262234333283
+
+<img src="screenshots/1895315262234333283.png" width="300">
+
+---
+
+:: 20:27:24 :: ~/dev/twitter_screenshots$ ./deleted-github.sh 1895311891133837321
+#### [Fri Feb 28, 2025 03:15:42 UTC]
+
+@elonmusk - New version of the @Grok app just dropped.  Try Grok voice. It’s next-level. https://x.com/_/status/1895311891133837321 
+
+<img src="screenshots/1895311891133837321.png" width="300">
+
+---
+
 #### [Tue Feb 25, 2025 02:08:11 UTC]
 
 @elonmusk - @mysteriouskat Canada is not a real country https://x.com/_/status/1894207733693649193
