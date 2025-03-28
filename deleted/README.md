@@ -1,3 +1,11 @@
+#### [Fri Mar 28, 2025 04:57:16 UTC]
+
+@elonmusk - On Sunday night, I will give a talk in Wisconsin. Entrance is limited to those who have voted in the Supreme Court election. I will also personally hand over two checks for a million dollars each in appreciation for you taking the time to vote. This is super important. https://x.com/_/status/1905484309709848658
+
+<img src="screenshots/1905484309709848658.png" width="300">
+
+---
+
 #### [Sun Mar 23, 2025 17:17:23 UTC]
 
 @elonmusk - https://t.co/Q71wMnHbmp https://pbs.twimg.com/amplify_video_thumb/1903846252032487425/img/mWmEKcsCj7csy-l0.jpg (video) https://x.com/_/status/1903858627116437567
