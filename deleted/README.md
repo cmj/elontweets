@@ -2,7 +2,7 @@
 
 @elonmusk - On Sunday night, I will give a talk in Wisconsin. Entrance is limited to those who have voted in the Supreme Court election. I will also personally hand over two checks for a million dollars each in appreciation for you taking the time to vote. This is super important. https://x.com/_/status/1905484309709848658
 
-<img src="screenshots/1905484309709848658.png" width="300">
+<img src="screenshots/1905484309709848658.jpg" width="300">
 
 ---
 
