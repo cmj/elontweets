@@ -1,3 +1,11 @@
+#### [Sat Apr 05, 2025 20:43:19 UTC]
+
+@elonmusk - Starlink airborne continuity test with HC SSF POE2 https://x.com/i/broadcasts/1mrGmPleodQKy https://x.com/_/status/1908621496563753202
+
+<img src="screenshots/1908621496563753202.png" width="300">
+
+---
+
 #### [Tue Apr 01, 2025 06:25:43 UTC]
 
 @elonmusk - RT @ElonClipsX: Here's Elon Musk explaining that running DOGE is costing him a lot personally, before being warmly thanked and applauded by… https://x.com/_/status/1906956122503647612
