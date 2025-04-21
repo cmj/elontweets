@@ -22,19 +22,68 @@ $ gnuplot -c box.gp
 
 Screenshots of (most) [deleted tweets](deleted/)
 
+### Stats
+
+As of 2025-04-20
+
+<table>
+<tr><th>Replied to most</th><th>Retweeted most</th></tr><tr><td>
+
+|#|User|
+|--:|--|
+|1302|@cb_doge|
+|859|@WholeMarsBlog|
+|854|@BillyM2k|
+|774|@teslaownersSV|
+|697|@stillgray|
+|680|@MarioNawfal|
+|578|@Rothmus|
+|571|@alx|
+|559|@WallStreetSilv|
+|538|@EndWokeness|
+|496|@TheRabbitHole84|
+|444|@stclairashley|
+|410|@Erdayastronaut|
+|392|@SawyerMerritt|
+|349|@PPathole|
+  
+  </td><td>
+  
+|#|User|
+|--:|--|
+|472|@MarioNawfal|
+|425|@cb_doge|
+|403|@SpaceX|
+|269|@teslaownersSV|
+|145|@Tesla|
+|108|@america|
+|97|@AutismCapital|
+|82|@Rothmus|
+|81|@SawyerMerritt|
+|79|@TheRabbitHole84|
+|74|@Starlink|
+|74|@DefiyantlyFree|
+|63|@RapidResponse47|
+|59|@libsoftiktok|
+|56|@ElonClipsX|
+  
+  </td><tr>
+</table>
+
 ### App / device statistics
 
 |Tweets|Source|
 |--:|--|
-|53594|Twitter for iPhone|
+|69379|Twitter for iPhone|
 |387|Twitter Web Client|
-|153|Twitter Web App|
+|200|Twitter Web App|
 |91|Instagram|
-|10|Twitter for Websites|
+|11|Twitter for Websites|
+|10|Periscope|
 |9|iOS|
-|7|Periscope|
 |4|Mobile Web|
 |3|Photos on iOS|
+|2|Twitter Media Studio|
 |1|Tweetlogix|
 
 ---
