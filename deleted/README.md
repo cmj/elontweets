@@ -1,3 +1,35 @@
+#### [Sun May 04, 2025 21:47:13 UTC]
+
+@elonmusk - Grōk https://x.com/_/status/1919146821982597387
+
+<img src="screenshots/1919146821982597387.png" width="300">
+
+---
+
+#### [Sun May 04, 2025 19:38:07 UTC]
+
+@elonmusk - RT @iruletheworldmo: this is an early checkpoint lol, grok is going to get better and better until it blows right on by super intelligence… https://x.com/_/status/1919114335542038979
+
+<img src="screenshots/1919114335542038979.png" width="300">
+
+---
+
+#### [Sun May 04, 2025 04:55:24 UTC]
+
+@elonmusk - RT @iruletheworldmo: @FlowAltDelete it’s the first genuine artificial intelligence imo. https://x.com/_/status/1918892192577327436
+
+<img src="screenshots/1918892192577327436.png" width="300">
+
+---
+
+#### [Sun May 04, 2025 04:53:47 UTC]
+
+@elonmusk - Grok 3.5 is something special https://x.com/_/status/1918891783536148562
+
+<img src="screenshots/1918891783536148562.png" width="300">
+
+---
+
 #### [Sat Apr 05, 2025 20:43:19 UTC]
 
 @elonmusk - Starlink airborne continuity test with HC SSF POE2 https://x.com/i/broadcasts/1mrGmPleodQKy https://x.com/_/status/1908621496563753202
