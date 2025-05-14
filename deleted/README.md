@@ -1,3 +1,19 @@
+#### [Tue May 13, 2025 20:46:40 UTC]
+
+@elonmusk - RT @SpaceX: Starship completed a long duration six-engine static fire and is undergoing final preparations for the ninth flight test https:… https://x.com/_/status/1922393077596975162
+
+<img src="screenshots/1922393077596975162.png" width="300">
+
+---
+
+#### [Tue May 13, 2025 13:20:13 UTC]
+
+@elonmusk - https://t.co/6frMqh2gAL https://grok.com/share/bGVnYWN5_5161e349-ec2d-4533-a03c-a2d3ac2331fe https://x.com/_/status/1922280723030954323
+
+<img src="screenshots/1922280723030954323.png" width="300">
+
+---
+
 #### [Sun May 04, 2025 21:47:13 UTC]
 
 @elonmusk - Grōk https://x.com/_/status/1919146821982597387
