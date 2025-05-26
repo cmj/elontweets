@@ -1,5 +1,5 @@
 ## Last 30 Days
-Tweets: 1539 (51 per day)\
+Tweets: 1504 (50 per day)\
 Likes: 4740 (158 per day)
 
 ## 24 Hours
