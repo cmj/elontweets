@@ -1,3 +1,11 @@
+#### [Thu Jun 05, 2025 22:41:27 UTC]
+
+@elonmusk - RT @thatsKAIZEN (Kaizen D. Asiedu): I hate that this needs to be clarified but: No, Elon did not criticize Trump personally first. Trump criticized Elon first. Elon criticized Trump’s bill first. Trump commented on Elon around June 5, 12:08pm ET during a press conference. At 12:46 pm ET Elon commented on X in [@thatsKAIZEN] This never needed to get personal. It never needed to be about Elon vs Trump. It always was about the deficit, and whether the Big Beautiful Bill reduces it. Going forward, our President should focus on giving the people one Big Beautiful Explanation, not retaliation. https://t.co/HhS2WlkYsg | ↳ 4,177 ⇅ 2,528 ♥ 20,857 🡕 7,722,944 | Twitter for iPhone | Los Angeles | birdwatch | https://x.com/_/status/1930755434954281152 (5 hours, 12 minutes ago)
+
+<img src="screenshots/1930756885667516573.png" width="300">
+
+---
+
 #### [Tue May 13, 2025 20:46:40 UTC]
 
 @elonmusk - RT @SpaceX: Starship completed a long duration six-engine static fire and is undergoing final preparations for the ninth flight test https:… https://x.com/_/status/1922393077596975162
