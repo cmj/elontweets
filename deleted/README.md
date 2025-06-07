@@ -1,3 +1,27 @@
+#### [Sat Jun 07, 2025 01:48:29 UTC]
+
+@elonmusk - @j_fishback I will apologize profusely as soon as there is a full dump of the Epstein files. https://x.com/_/status/1931166341844910282
+
+<img src="screenshots/1931166341844910282.png" width="300">
+
+---
+
+#### [Sat Jun 07, 2025 01:03:41 UTC]
+
+@elonmusk - @j_fishback Be precise https://x.com/_/status/1931155067496767531
+
+<img src="screenshots/1931155067496767531.png" width="300">
+
+---
+
+#### [Sat Jun 07, 2025 01:03:23 UTC]
+
+@elonmusk - @j_fishback What’s the apology for exactly? https://x.com/_/status/1931154992443826683
+
+<img src="screenshots/1931154992443826683.png" width="300">
+
+---
+
 #### [Thu Jun 05, 2025 20:11:51 UTC]
 
 @elonmusk - Yes https://x.com/_/status/1930719235770359903
