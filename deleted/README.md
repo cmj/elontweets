@@ -6,6 +6,14 @@
 
 ---
 
+#### [Sat Jun 07, 2025 01:13:08 UTC]
+
+@elonmusk - @ShadowofEzra Bannon is a criminal who oozes evil from his face like a disease https://x.com/_/status/1931157442026496338
+
+<img src="screenshots/1931157442026496338.png" width="300">
+
+---
+
 #### [Sat Jun 07, 2025 01:03:41 UTC]
 
 @elonmusk - @j_fishback Be precise https://x.com/_/status/1931155067496767531
