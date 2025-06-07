@@ -46,19 +46,35 @@
 
 ---
 
-#### [Thu Jun 05, 2025 18:48:25 UTC]
-
-@elonmusk - Such an obvious lie. So sad. https://x.com/_/status/1930698237650026675
-
-<img src="screenshots/1930698237650026675.png" width="300">
-
----
-
 #### [Thu Jun 05, 2025 22:41:27 UTC]
 
 @elonmusk - RT @thatsKAIZEN (Kaizen D. Asiedu): I hate that this needs to be clarified but: No, Elon did not criticize Trump personally first. Trump criticized Elon first. Elon criticized Trump’s bill first. Trump commented on Elon around June 5, 12:08pm ET during a press conference. At 12:46 pm ET Elon commented on X in [@thatsKAIZEN] This never needed to get personal. It never needed to be about Elon vs Trump. It always was about the deficit, and whether the Big Beautiful Bill reduces it. Going forward, our President should focus on giving the people one Big Beautiful Explanation, not retaliation. https://t.co/HhS2WlkYsg | ↳ 4,177 ⇅ 2,528 ♥ 20,857 🡕 7,722,944 | Twitter for iPhone | Los Angeles | birdwatch | https://x.com/_/status/1930755434954281152 (5 hours, 12 minutes ago)
 
 <img src="screenshots/1930756885667516573.png" width="300">
+
+---
+
+#### [Thu Jun 05, 2025 19:20:00 UTC]
+
+@elonmusk - Mark this post for the future. The truth will come out. https://x.com/_/status/1930706186266890457
+
+<img src="screenshots/1930706186266890457.png" width="300">
+
+---
+
+#### [Thu Jun 05, 2025 19:10:47 UTC]
+
+@elonmusk - Time to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public. Have a nice day, DJT! https://x.com/_/status/1930703865801810022
+
+<img src="screenshots/1930703865801810022.png" width="300">
+
+---
+
+#### [Thu Jun 05, 2025 18:48:25 UTC]
+
+@elonmusk - Such an obvious lie. So sad. https://x.com/_/status/1930698237650026675
+
+<img src="screenshots/1930698237650026675.png" width="300">
 
 ---
 
