@@ -30,6 +30,14 @@
 
 ---
 
+#### [Thu Jun 05, 2025 20:26:08 UTC]
+
+@elonmusk - The Trump tariffs will cause a recession in the second half of this year https://x.com/_/status/1930722828481098043
+
+<img src="screenshots/1930722828481098043.png" width="300">
+
+---
+
 #### [Thu Jun 05, 2025 20:11:51 UTC]
 
 @elonmusk - Yes https://x.com/_/status/1930719235770359903
