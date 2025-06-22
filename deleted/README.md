@@ -1,3 +1,11 @@
+#### [Sat Jun 21, 2025 20:36:22 UTC]
+
+@elonmusk - @BrodyFoxx It was news to me that Yacine was let go https://x.com/_/status/1936523609759236365
+
+<img src="screenshots/1936523609759236365.png" width="300">
+
+---
+
 #### [Wed Jun 11, 2025 09:08:08 UTC]
 
 @elonmusk - @lexfridman 😂 https://x.com/_/status/1932726533426421900
