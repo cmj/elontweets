@@ -1,12 +1,22 @@
+#### [Fri Sep 12, 2025 13:48:27 UTC]
+
+@elonmusk - This evil psycho stood up and cheered when Charlie Kirk was murdered in cold blood https://x.com/_/status/1966499149651607829
+
+<img src="screenshots/1966499149651607829.png" width="300">
+
+Deleted at ~ Fri Sep 12, 2025 16:39:10 UTC 
+
+---
+
 #### [Thu Aug 21, 2025 12:53:20 UTC]
 
 @elonmusk - Ani is ok 👌 https://pbs.twimg.com/amplify_video_thumb/1958512691812917248/img/Wz09TuDOruRjCdEx.jpg (video) https://x.com/_/status/1958512746724487602
 
 <img src="screenshots/1958512746724487602.png" width="300">
 
-Deleted tweet media: https://video.twimg.com/amplify_video/1958512691812917248/vid/avc1/416x752/QQfce_YaYXV3OaBR.mp4
+Deleted media: https://video.twimg.com/amplify_video/1958512691812917248/vid/avc1/416x752/QQfce_YaYXV3OaBR.mp4
 
-Estimated deletion time: Fri Aug 22 03:32:00 AM PDT 2025
+Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 ---
 
