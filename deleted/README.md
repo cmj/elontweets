@@ -1552,3 +1552,14 @@ Regarding Twitter’s reduction in force, unfortunately there is no choice when 
 
 Music notation is a blunt instrument https://t.co/j7HCmDoayt https://x.com/elonmusk/status/1588072002991988741
 
+---
+
+#### [Sun Oct 30, 2022 12:15:34 UTC]
+
+@HillaryClinton There is a tiny possibility there might be more to this story than meets the eye https://t.co/HCaF5DrRjP https://x.com/elonmusk/status/1586693291231178753
+
+<img src="screenshots/1586693291231178753.png" width="300">
+
+Archive: https://web.archive.org/web/20221030123645/https://twitter.com/elonmusk/status/1586693291231178753
+
+---
