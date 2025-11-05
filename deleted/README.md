@@ -2,7 +2,7 @@
 
 @elonmusk - RT @AdamLowisz: @elonmusk 🤣🤣🤣 https://pbs.twimg.com/media/G49KgKfWsAAx5Vh.jpg (photo) https://x.com/_/status/1985910590922268681
 
-<img src="screenshots/1985910590922268681.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1985910590922268681.png" width="300">
 
 ---
 
@@ -10,7 +10,7 @@
 
 @elonmusk - Grok roasting politicians 🔥🤣 https://x.com/_/status/1985887259036696863
 
-<img src="screenshots/1985887259036696863.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1985887259036696863.png" width="300">
 
 Deleted at ~ Sat Nov 5, 2025 04:34:00 UTC
 
@@ -20,7 +20,7 @@ Deleted at ~ Sat Nov 5, 2025 04:34:00 UTC
 
 @elonmusk - Consider the string of possibilities https://x.com/_/status/1984639456083919217
 
-<img src="screenshots/1984639456083919217.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1984639456083919217.png" width="300">
 
 Deleted at ~ Sat Nov 1, 2025 15:41:00 UTC
 
@@ -30,7 +30,7 @@ Deleted at ~ Sat Nov 1, 2025 15:41:00 UTC
 
 @elonmusk - RT @minchoi: Damn new Grok Imagine update is wild https://pbs.twimg.com/amplify_video_thumb/1979698301344616448/img/YcGx2VqDxAm_NqUh.jpg (video) https://x.com/_/status/1979747807746805760
 
-<img src="screenshots/1979747807746805760.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1979747807746805760.png" width="300">
 
 ---
 
@@ -38,7 +38,7 @@ Deleted at ~ Sat Nov 1, 2025 15:41:00 UTC
 
 @elonmusk - RT @EMBurlingame: The founder of our Civilization, King Alfred the Great, more than a thousand years ago, began it all with the hanging of… https://x.com/_/status/1974679066956693540
 
-<img src="screenshots/1974679066956693540.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1974679066956693540.png" width="300">
 
 ---
 
@@ -46,7 +46,7 @@ Deleted at ~ Sat Nov 1, 2025 15:41:00 UTC
 
 @elonmusk - 🇬🇧🇬🇧🇬🇧🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧🇬🇧🇬🇧🇬🇧 https://x.com/_/status/1966893267741466631
 
-<img src="screenshots/1966893267741466631.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1966893267741466631.png" width="300">
 
 ---
 
@@ -54,7 +54,7 @@ Deleted at ~ Sat Nov 1, 2025 15:41:00 UTC
 
 @elonmusk - This evil psycho stood up and cheered when Charlie Kirk was murdered in cold blood https://x.com/_/status/1966499149651607829
 
-<img src="screenshots/1966499149651607829.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1966499149651607829.png" width="300">
 
 Deleted at ~ Fri Sep 12, 2025 16:39:10 UTC 
 
@@ -64,7 +64,7 @@ Deleted at ~ Fri Sep 12, 2025 16:39:10 UTC
 
 @elonmusk - Ani is ok 👌 https://pbs.twimg.com/amplify_video_thumb/1958512691812917248/img/Wz09TuDOruRjCdEx.jpg (video) https://x.com/_/status/1958512746724487602
 
-<img src="screenshots/1958512746724487602.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1958512746724487602.png" width="300">
 
 Deleted media: https://video.twimg.com/amplify_video/1958512691812917248/vid/avc1/416x752/QQfce_YaYXV3OaBR.mp4
 
@@ -76,7 +76,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Amazing 😂 https://x.com/_/status/1949969580740247615
 
-<img src="screenshots/1949969580740247615.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1949969580740247615.png" width="300">
 
 ---
 
@@ -84,7 +84,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Optimus will bring the food to your car next year https://pbs.twimg.com/media/GwjWD-VbcAAusXh.jpg (photo) https://x.com/_/status/1948042205593268442
 
-<img src="screenshots/1948042205593268442.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1948042205593268442.png" width="300">
 
 ---
 
@@ -92,7 +92,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - 🤗 https://x.com/_/status/1939922690401272246
 
-<img src="screenshots/1939922690401272246.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1939922690401272246.png" width="300">
 
 ---
 
@@ -100,7 +100,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @Chad_Hurley 😂 https://x.com/_/status/1937407831692706152
 
-<img src="screenshots/1937407831692706152.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1937407831692706152.png" width="300">
 
 ---
 
@@ -108,7 +108,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @BrodyFoxx It was news to me that Yacine was let go https://x.com/_/status/1936523609759236365
 
-<img src="screenshots/1936523609759236365.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1936523609759236365.png" width="300">
 
 ---
 
@@ -116,7 +116,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @lexfridman 😂 https://x.com/_/status/1932726533426421900
 
-<img src="screenshots/1932726533426421900.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1932726533426421900.png" width="300">
 
 ---
 
@@ -124,7 +124,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @j_fishback I will apologize profusely as soon as there is a full dump of the Epstein files. https://x.com/_/status/1931166341844910282
 
-<img src="screenshots/1931166341844910282.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1931166341844910282.png" width="300">
 
 ---
 
@@ -132,7 +132,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @ShadowofEzra Bannon is a criminal who oozes evil from his face like a disease https://x.com/_/status/1931157442026496338
 
-<img src="screenshots/1931157442026496338.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1931157442026496338.png" width="300">
 
 ---
 
@@ -140,7 +140,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @j_fishback Be precise https://x.com/_/status/1931155067496767531
 
-<img src="screenshots/1931155067496767531.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1931155067496767531.png" width="300">
 
 ---
 
@@ -148,7 +148,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @j_fishback What’s the apology for exactly? https://x.com/_/status/1931154992443826683
 
-<img src="screenshots/1931154992443826683.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1931154992443826683.png" width="300">
 
 ---
 
@@ -156,7 +156,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - The Trump tariffs will cause a recession in the second half of this year https://x.com/_/status/1930722828481098043
 
-<img src="screenshots/1930722828481098043.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930722828481098043.png" width="300">
 
 ---
 
@@ -164,7 +164,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Yes https://x.com/_/status/1930719235770359903
 
-<img src="screenshots/1930719235770359903.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930719235770359903.png" width="300">
 
 ---
 
@@ -172,7 +172,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - In light of the President’s statement about cancellation of my government contracts, @SpaceX will begin decommissioning its Dragon spacecraft immediately https://pbs.twimg.com/media/GstKaQxacAA1hLZ.jpg (photo) https://x.com/_/status/1930718684819112251
 
-<img src="screenshots/1930718684819112251.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930718684819112251.png" width="300">
 
 ---
 
@@ -180,7 +180,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @thatsKAIZEN (Kaizen D. Asiedu): I hate that this needs to be clarified but: No, Elon did not criticize Trump personally first. Trump criticized Elon first. Elon criticized Trump’s bill first. Trump commented on Elon around June 5, 12:08pm ET during a press conference. At 12:46 pm ET Elon commented on X in [@thatsKAIZEN] This never needed to get personal. It never needed to be about Elon vs Trump. It always was about the deficit, and whether the Big Beautiful Bill reduces it. Going forward, our President should focus on giving the people one Big Beautiful Explanation, not retaliation. https://t.co/HhS2WlkYsg | ↳ 4,177 ⇅ 2,528 ♥ 20,857 🡕 7,722,944 | Twitter for iPhone | Los Angeles | birdwatch | https://x.com/_/status/1930755434954281152 (5 hours, 12 minutes ago)
 
-<img src="screenshots/1930756885667516573.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930756885667516573.png" width="300">
 
 ---
 
@@ -188,7 +188,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Mark this post for the future. The truth will come out. https://x.com/_/status/1930706186266890457
 
-<img src="screenshots/1930706186266890457.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930706186266890457.png" width="300">
 
 ---
 
@@ -196,7 +196,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Time to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public. Have a nice day, DJT! https://x.com/_/status/1930703865801810022
 
-<img src="screenshots/1930703865801810022.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930703865801810022.png" width="300">
 
 ---
 
@@ -204,7 +204,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Such an obvious lie. So sad. https://x.com/_/status/1930698237650026675
 
-<img src="screenshots/1930698237650026675.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1930698237650026675.png" width="300">
 
 ---
 
@@ -212,7 +212,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @SpaceX: Starship completed a long duration six-engine static fire and is undergoing final preparations for the ninth flight test https:… https://x.com/_/status/1922393077596975162
 
-<img src="screenshots/1922393077596975162.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1922393077596975162.png" width="300">
 
 ---
 
@@ -220,7 +220,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - https://t.co/6frMqh2gAL https://grok.com/share/bGVnYWN5_5161e349-ec2d-4533-a03c-a2d3ac2331fe https://x.com/_/status/1922280723030954323
 
-<img src="screenshots/1922280723030954323.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1922280723030954323.png" width="300">
 
 ---
 
@@ -228,7 +228,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Grōk https://x.com/_/status/1919146821982597387
 
-<img src="screenshots/1919146821982597387.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1919146821982597387.png" width="300">
 
 ---
 
@@ -236,7 +236,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @iruletheworldmo: this is an early checkpoint lol, grok is going to get better and better until it blows right on by super intelligence… https://x.com/_/status/1919114335542038979
 
-<img src="screenshots/1919114335542038979.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1919114335542038979.png" width="300">
 
 ---
 
@@ -244,7 +244,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @iruletheworldmo: @FlowAltDelete it’s the first genuine artificial intelligence imo. https://x.com/_/status/1918892192577327436
 
-<img src="screenshots/1918892192577327436.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1918892192577327436.png" width="300">
 
 ---
 
@@ -252,7 +252,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Grok 3.5 is something special https://x.com/_/status/1918891783536148562
 
-<img src="screenshots/1918891783536148562.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1918891783536148562.png" width="300">
 
 ---
 
@@ -260,7 +260,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Starlink airborne continuity test with HC SSF POE2 https://x.com/i/broadcasts/1mrGmPleodQKy https://x.com/_/status/1908621496563753202
 
-<img src="screenshots/1908621496563753202.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1908621496563753202.png" width="300">
 
 ---
 
@@ -268,7 +268,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @_Simon_K @DefiyantlyFree He ain’t built shit https://x.com/_/status/1908398139477721388
 
-<img src="screenshots/1908398139477721388.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1908398139477721388.png" width="300">
 
 ---
 
@@ -276,7 +276,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Starlink airborne continuity test with HC SSF POE2 https://x.com/i/broadcasts/1mrGmPleodQKy https://x.com/_/status/1908621496563753202
 
-<img src="screenshots/1908621496563753202.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1908621496563753202.png" width="300">
 
 ---
 
@@ -284,7 +284,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @ElonClipsX: Here's Elon Musk explaining that running DOGE is costing him a lot personally, before being warmly thanked and applauded by… https://x.com/_/status/1906956122503647612
 
-<img src="screenshots/1906956122503647612.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1906956122503647612.png" width="300">
 
 ---
 
@@ -292,7 +292,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @DefiyantlyFree: https://pbs.twimg.com/media/GnQiGW-aQAAMm9v.jpg (photo) https://x.com/_/status/1906228066759647618
 
-<img src="screenshots/1906228066759647618.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1906228066759647618.png" width="300">
 
 ---
 
@@ -300,7 +300,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Concerning https://x.com/_/status/1905676627373113669
 
-<img src="screenshots/1905676627373113669.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1905676627373113669.png" width="300">
 
 ---
 
@@ -308,7 +308,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - On Sunday night, I will give a talk in Wisconsin. Entrance is limited to those who have voted in the Supreme Court election. I will also personally hand over two checks for a million dollars each in appreciation for you taking the time to vote. This is super important. https://x.com/_/status/1905484309709848658
 
-<img src="screenshots/1905484309709848658.jpg" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1905484309709848658.jpg" width="300">
 
 ---
 
@@ -316,7 +316,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - https://t.co/Q71wMnHbmp https://pbs.twimg.com/amplify_video_thumb/1903846252032487425/img/mWmEKcsCj7csy-l0.jpg (video) https://x.com/_/status/1903858627116437567
 
-<img src="screenshots/1903858627116437567.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1903858627116437567.png" width="300">
 
 ---
 
@@ -324,7 +324,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @twatterbaas: “Kill the Boer/White farmer” earlier Today. So much for Human Rights Day.. https://x.com/_/status/1903553308977160642
 
-<img src="screenshots/1903553308977160642.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1903553308977160642.png" width="300">
 
 ---
 
@@ -332,7 +332,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @WallStreetMav: BREAKING: Elon Musk and DOGE discover that there are 394 million Social Security recipients in the U.S. Despite the coun… https://x.com/_/status/1899951781612052836
 
-<img src="screenshots/1899951781612052836.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1899951781612052836.png" width="300">
 
 ---
 
@@ -340,7 +340,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - !! https://x.com/_/status/1898224388459151697
 
-<img src="screenshots/1898224388459151697.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1898224388459151697.png" width="300">
 
 ---
 
@@ -348,7 +348,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Updated @Grok app just dropped https://x.com/_/status/1895937374703796671
 
-<img src="screenshots/1895937374703796671.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1895937374703796671.png" width="300">
 
 ---
 
@@ -356,7 +356,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @CilComLFC Wow https://x.com/_/status/1895580273368318301
 
-<img src="screenshots/1895580273368318301.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1895580273368318301.png" width="300">
 
 ---
 
@@ -364,7 +364,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Try Grok voice personalities and update the app every few days, as it is rapidly improving.  Prepare for a wild ride! https://x.com/_/status/1895315262234333283
 
-<img src="screenshots/1895315262234333283.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1895315262234333283.png" width="300">
 
 ---
 
@@ -372,7 +372,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - New version of the @Grok app just dropped.  Try Grok voice. It’s next-level. https://x.com/_/status/1895311891133837321 
 
-<img src="screenshots/1895311891133837321.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1895311891133837321.png" width="300">
 
 ---
 
@@ -380,7 +380,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @mysteriouskat Canada is not a real country https://x.com/_/status/1894207733693649193
 
-<img src="screenshots/1894207733693649193.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1894207733693649193.png" width="300">
 
 ---
 
@@ -388,7 +388,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @WhiteHouse So based 🦾 https://x.com/_/status/1892097435947729331
 
-<img src="screenshots/1892097435947729331.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1892097435947729331.png" width="300">
 
 ---
 
@@ -396,7 +396,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Wait, why are American taxpayers covering 2/3 of the defense costs of Europe? That doesn’t make sense.  Defense from who? https://x.com/_/status/1892075249857937582
 
-<img src="screenshots/1892075249857937582.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1892075249857937582.png" width="300">
 
 ---
 
@@ -404,7 +404,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Wow https://x.com/_/status/1887257971580633095
 
-<img src="screenshots/1887257971580633095.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1887257971580633095.png" width="300">
 
 ---
 
@@ -412,11 +412,11 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Very weird … https://x.com/_/status/1886112944020148610
 
-<img src="screenshots/1886112944020148610.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1886112944020148610.png" width="300">
 
 (Full quoted tweet)
 
-<img src="screenshots/1886053939717509540-qt.png" width="200">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1886053939717509540-qt.png" width="200">
 
 ---
 
@@ -424,7 +424,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - As the saying goes, follow the money … That is exactly what we will do. https://x.com/_/status/1886094736932454767
 
-<img src="screenshots/1886094736932454767.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1886094736932454767.png" width="300">
 
 ---
 
@@ -432,7 +432,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Todd Young is a deep state puppet. https://x.com/_/status/1886094474201206804
 
-<img src="screenshots/1886094474201206804.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1886094474201206804.png" width="300">
 
 ---
 
@@ -440,7 +440,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Extremely concerning.  NED is RIFE with CORRUPTION!! What is going on here? @SenToddYoung https://x.com/_/status/1886089119773720695
 
-<img src="screenshots/1886089119773720695.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1886089119773720695.png" width="300">
 
 ---
 
@@ -448,7 +448,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @stillgray @ScreamheartTV @AceofSpadesHQ I’m on hundreds of streams on YouTube/Twitch playing live with the world’s best players.  No other way to say this, but, while Asmon IS good at caustic commentary and making fun of people, he is NOT good at video games 🤷‍♂️ https://x.com/_/status/1879802284546408610
 
-<img src="screenshots/1879802284546408610.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1879802284546408610.png" width="300">
 
 ---
 
@@ -456,7 +456,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @ScreamheartTV Here’s me doing a world record Diablo AoZ clear with @AceofSpadesHQ on stream https://t.co/CGgAMh8gB1 https://m.youtube.com/watch?v=rUuxHu3J1HM&pp=ygUcRGlhYmxvIHdvcmxkIHJlY29yZCBlbG9ubXVzaw%3D%3D https://x.com/_/status/1879800550113587500
 
-<img src="screenshots/1879800550113587500.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1879800550113587500.png" width="300">
 
 ---
 
@@ -464,7 +464,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @ScreamheartTV Asmon behaves like a maverick “independent”, but in reality has to ask his boss for permission before he can do anything. He is not his own man. https://x.com/_/status/1879798348993237046
 
-<img src="screenshots/1879798348993237046.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1879798348993237046.png" width="300">
 
 ---
 
@@ -472,7 +472,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @jeffhalm wtf are you taking about? https://x.com/_/status/1872790339762962656
 
-<img src="screenshots/1872790339762962656.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872790339762962656.png" width="300">
 
 ---
 
@@ -480,7 +480,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @sadreturn Liar https://x.com/_/status/1872762921279008794
 
-<img src="screenshots/1872762921279008794.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872762921279008794.png" width="300">
 
 ---
 
@@ -488,7 +488,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @randompudge_sol @sadreturn Exactly https://x.com/_/status/1872762639031648382
 
-<img src="screenshots/1872762639031648382.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872762639031648382.png" width="300">
 
 ---
 
@@ -496,7 +496,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @sadreturn Where did you find this lie? https://x.com/_/status/1872761789299273747
 
-<img src="screenshots/1872761789299273747.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872761789299273747.png" width="300">
 
 ---
 
@@ -504,7 +504,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @sadreturn That is a lie. Do you make this lie? https://x.com/_/status/1872761491235192860
 
-<img src="screenshots/1872761491235192860.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872761491235192860.png" width="300">
 
 ---
 
@@ -512,7 +512,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @UnfiltdTruth This fake is a deliberate lie. Do you make it? https://x.com/_/status/1872759072782729271
 
-<img src="screenshots/1872759072782729271.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872759072782729271.png" width="300">
 
 ---
 
@@ -520,7 +520,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @Josh__Hamm Tracing the fake post to source. Where did you see it? https://x.com/_/status/1872757964140139005
 
-<img src="screenshots/1872757964140139005.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872757964140139005.png" width="300">
 
 ---
 
@@ -528,7 +528,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @Josh__Hamm Did you get fooled or are you deliberately showing a fake post? https://x.com/_/status/1872756778599059515
 
-<img src="screenshots/1872756778599059515.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872756778599059515.png" width="300">
 
 ---
 
@@ -536,7 +536,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @AutismCapital That pretty much sums it up.  This was eye-opening. https://x.com/_/status/1872457740955918750
 
-<img src="screenshots/1872457740955918750.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1872457740955918750.png" width="300">
 
 ---
 
@@ -544,7 +544,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @Asmongold @pcgamer Big change from Diablo where the stores just sell useless trash at a high price https://x.com/_/status/1866360123985215583
 
-<img src="screenshots/1866360123985215583.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1866360123985215583.png" width="300">
 
 ---
 
@@ -552,7 +552,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @Asmongold 💯 https://x.com/_/status/1863115079073640761
 
-<img src="screenshots/1863115079073640761.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1863115079073640761.png" width="300">
 
 ---
 
@@ -560,7 +560,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @Asmongold 😂💯 https://x.com/_/status/1861559705610658062
 
-<img src="screenshots/1861559705610658062.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1861559705610658062.png" width="300">
 
 ---
 
@@ -568,7 +568,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Cool (Fri 21:01:47) https://x.com/_/status/1857650247352119784
 
-<img src="screenshots/1857650247352119784.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1857650247352119784.png" width="300">
 
 ---
 
@@ -576,7 +576,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - I just tried this myself and Google still shows you whereto vote for Harris, but not Trump, even when anonymous https://pbs.twimg.com/ext_tw_video_thumb/1853893012897570816/pu/img/eqka_PLIlql7YT6A.jpg (video) (Tue 12:12:04) https://x.com/_/status/1853893064236183619
 
-<img src="screenshots/1853893064236183619.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1853893064236183619.png" width="300">
 
 ---
 
@@ -584,7 +584,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - This is messed up (Tue 12:03:52) https://x.com/_/status/1853890997911990686
 
-<img src="screenshots/1853890997911990686.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1853890997911990686.png" width="300">
 
 ---
 
@@ -592,7 +592,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - 🤨 (Tue 12:02:33) https://x.com/_/status/1853890669649031584
 
-<img src="screenshots/1853890669649031584.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1853890669649031584.png" width="300">
 
 ---
 
@@ -600,7 +600,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Are others seeing this too? (Tue 11:29:46) https://x.com/_/status/1853882417888829829
 
-<img src="screenshots/1853882417888829829.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1853882417888829829.png" width="300">
 
 ---
 
@@ -608,7 +608,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - John Wick just wanted peace, but then killed his innocent, beloved dog … (Sat 13:09:53) https://x.com/_/status/1852805349973098557
 
-<img src="screenshots/1852805349973098557.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1852805349973098557.png" width="300">
 
 ---
 
@@ -616,7 +616,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - You don’t hate the legacy media enough (Sat 11:43:10) https://x.com/_/status/1852783528016011566
 
-<img src="screenshots/1852783528016011566.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1852783528016011566.png" width="300">
 
 ---
 
@@ -624,7 +624,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - https://t.co/9EaASIobEQ https://pbs.twimg.com/ext_tw_video_thumb/1841160395559497735/pu/img/hZsO_LWotUALYcD2.jpg (video) https://x.com/_/status/1841164447244517489
 
-<img src="screenshots/1841164447244517489.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1841164447244517489.png" width="300">
 
 ---
 
@@ -632,7 +632,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - RT @JeffClarkUS: It’s been several weeks and still no Democrat or member of the press has taken up my challenge of posting a transcript of… https://x.com/_/status/1838104643584369122
 
-<img src="screenshots/1838104643584369122.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1838104643584369122.png" width="300">
 
 ---
 
@@ -640,7 +640,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - @RealXHabib Wow, eyebrows really matter 😂 https://x.com/_/status/183768115468353584
 
-<img src="screenshots/1837681154683535841.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1837681154683535841.png" width="300">
 
 ---
 
@@ -648,7 +648,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Starlink technology is head and shoulders above anything else (Tue 22:08:08) https://x.com/_/status/1836270964465918227
 
-<img src="screenshots/1836270964465918227.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1836270964465918227.png" width="300">
 
 ---
 
@@ -656,7 +656,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Spaces with @realDonaldTrump tonight! (Mon 17:50:54) https://x.com/_/status/1835843839208116499
 
-<img src="screenshots/1835843839208116499.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1835843839208116499.png" width="300">
 
 ---
 
@@ -664,7 +664,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Assassination is censorship in the limit (Mon 17:42:08) https://x.com/_/status/1835841632110809172
 
-<img src="screenshots/1835841632110809172.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1835841632110809172.png" width="300">
 
 ---
 
@@ -672,7 +672,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk (Elon Musk)【𝗕】: And no one is even trying to assassinate Biden/Kamala 🤔 | ↳ 1,699 ⇅ 1,542 ♥ 9,697 🡕 504,865 | Twitter for iPhone | https://twitter.com/elonmusk/status/1835478980830572884
 
-<img src="screenshots/1835478980830572884.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1835478980830572884.png" width="300">
 
 ---
 
@@ -680,7 +680,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @elonmusk - Very interesting. Worth watching. (Mon 23:34:01) https://x.com/_/status/1830856758505402374
 
-<img src="screenshots/1830856758505402374.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1830856758505402374.png" width="300">
 
 ---
 
@@ -688,7 +688,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 @stevenmarkryan 😂 (Mon 08:40:31) https://x.com/_/status/1825558471283995093
 
-<img src="screenshots/1825558471283995093.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1825558471283995093.png" width="300">
 
 ---
 
@@ -696,7 +696,7 @@ Deleted at ~ Fri Aug 22, 2025 10:32:00 UTC
 
 How will we ever know what’s real? https://pbs.twimg.com/amplify_video_thumb/1825245724767883264/img/xyI9xBbwekAqJBBK.jpg (video) (Sun 20:13:06) https://x.com/_/status/1825370379910541434
 
-<img src="screenshots/1825370379910541434.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1825370379910541434.png" width="300">
 
 ---
 
@@ -704,7 +704,7 @@ How will we ever know what’s real? https://pbs.twimg.com/amplify_video_thumb/1
 
 https://t.co/FQaqHoTeBd https://pbs.twimg.com/amplify_video_thumb/1823581597033226241/img/QYT3k3XGQqttr_aa.jpg (video) https://x.com/_/status/1823732657714553031
 
-<img src="screenshots/1823732657714553031.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1823732657714553031.png" width="300">
 
 ---
 
@@ -712,7 +712,7 @@ https://t.co/FQaqHoTeBd https://pbs.twimg.com/amplify_video_thumb/18235815970332
 
 @Jason @GOP @KamalaHarris Makes sense https://x.com/_/status/1823498801900085709
 
-<img src="screenshots/1823498801900085709.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1823498801900085709.png" width="300">
 
 ---
 
@@ -720,7 +720,7 @@ https://t.co/FQaqHoTeBd https://pbs.twimg.com/amplify_video_thumb/18235815970332
 
 “Detainment Camps” … https://x.com/_/status/1821471603819212836
 
-<img src="screenshots/1821471603819212836.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1821471603819212836.png" width="300">
 
 ---
 
@@ -728,7 +728,7 @@ https://t.co/FQaqHoTeBd https://pbs.twimg.com/amplify_video_thumb/18235815970332
 
 @ajtourville 🐼 https://x.com/_/status/1820285699410559242
 
-<img src="screenshots/1820285699410559242.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1820285699410559242.png" width="300">
 
 ---
 
@@ -736,7 +736,7 @@ https://t.co/FQaqHoTeBd https://pbs.twimg.com/amplify_video_thumb/18235815970332
 
 If this gains momentum, the rightfully elected President will replace the fraudster https://x.com/_/status/1818356844752175574
 
-<img src="screenshots/1818356844752175574.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1818356844752175574.png" width="300">
 
 ---
 
@@ -750,7 +750,7 @@ RT @farzyness: On desktop with incognito on in Chrome: https://pbs.twimg.com/med
 
 This is messed up https://x.com/_/status/1817767574592950763
 
-<img src="screenshots/1817767574592950763.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1817767574592950763.png" width="300">
 
 ---
 
@@ -758,7 +758,7 @@ This is messed up https://x.com/_/status/1817767574592950763
 
 Isn’t technology amazing? 😉 https://pbs.twimg.com/media/GTenLtdWEAANEcG.jpg (photo) https://x.com/_/status/1817104797511635402
 
-<img src="screenshots/1817104797511635402.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1817104797511635402.png" width="300">
 
 ---
 
@@ -766,7 +766,7 @@ Isn’t technology amazing? 😉 https://pbs.twimg.com/media/GTenLtdWEAANEcG.jpg
 
 This movie will be a hit! (Oops, it missed) https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) https://x.com/_/status/1813990001962877171
 
-<img src="screenshots/1813990001962877171.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1813990001962877171.png" width="300">
 
 ---
 
@@ -774,7 +774,7 @@ This movie will be a hit! (Oops, it missed) https://pbs.twimg.com/media/GSyUheKX
 
 This movie will be a HIT!! https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (photo) https://x.com/_/status/1813988055427989508
 
-<img src="screenshots/1813988055427989508.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1813988055427989508.png" width="300">
 
 ---
 
@@ -782,7 +782,7 @@ This movie will be a HIT!! https://pbs.twimg.com/media/GSyUheKXkAA9BvE.jpg (phot
 
 So before being put in charge of protecting the PRESIDENT, she was guarding bags of Cheetos … https://x.com/_/status/1812297671119638647
 
-<img src="screenshots/1812297671119638647.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1812297671119638647.png" width="300">
 
 ---
 
@@ -790,7 +790,7 @@ So before being put in charge of protecting the PRESIDENT, she was guarding bags
 
 RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJTtb0AAaoXp.jpg (photo) https://x.com/_/status/1797174479736414490
 
-<img src="screenshots/1797174479736414490.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1797174479736414490.png" width="300">
 
 ---
 
@@ -798,7 +798,7 @@ RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJT
 
 @SawyerMerritt Pre-money valuation was $16B https://x.com/_/status/1794971826042355802
 
-<img src="screenshots/1794971826042355802.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1794971826042355802.png" width="300">
 
 ---
 
@@ -806,7 +806,7 @@ RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJT
 
 @BillAckman @Uber Whoa, this is dark https://x.com/_/status/1793526631983890586
 
-<img src="screenshots/1793526631983890586.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1793526631983890586.png" width="300">
 
 ---
 
@@ -814,7 +814,7 @@ RT @kevinnbass: George Orwell writing in 1943 https://pbs.twimg.com/media/GPCtJT
 
 Post your family pics on 𝕏! We care & do more to fight child exploitation than any other platform by far. https://pbs.twimg.com/media/GODDR-QXUAAsdL0.jpg (photo) https://x.com/_/status/1792647374122176605
 
-<img src="screenshots/1792647374122176605.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1792647374122176605.png" width="300">
 
 ---
 
@@ -822,7 +822,7 @@ Post your family pics on 𝕏! We care & do more to fight child exploitation tha
 
 RT @pmarca: Please enjoy @bhorowitz and me answering questions on the current state of AI! 00:01:14 - How AI startups can compete with the… https://x.com/_/status/1788995750010995079
 
-<img src="screenshots/1788995750010995079.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1788995750010995079.png" width="300">
 
 ---
 
@@ -830,7 +830,7 @@ RT @pmarca: Please enjoy @bhorowitz and me answering questions on the current st
 
 Boeing got $4.2 billion to develop an astronaut space capsule. SpaceX got $2.6 billion and finished 7 years faster. Too many non-technical managers at Boeing. https://x.com/_/status/1787523801070326120
 
-<img src="screenshots/1787523801070326120.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1787523801070326120.png" width="300">
 
 ---
 
@@ -838,7 +838,7 @@ Boeing got $4.2 billion to develop an astronaut space capsule. SpaceX got $2.6 b
 
 kek https://pbs.twimg.com/media/GL0l8GNXEAEKPDx.jpg (photo) https://x.com/_/status/1782622746179936353
 
-<img src="screenshots/1782622746179936353.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1782622746179936353.png" width="300">
 
 ---
 
@@ -846,7 +846,7 @@ kek https://pbs.twimg.com/media/GL0l8GNXEAEKPDx.jpg (photo) https://x.com/_/stat
 
 @libsoftiktok Was he protesting against the trial or for it? https://x.com/_/status/1781380620267954569
 
-<img src="screenshots/1781380620267954569.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1781380620267954569.png" width="300">
 
 ---
 
@@ -854,7 +854,7 @@ kek https://pbs.twimg.com/media/GL0l8GNXEAEKPDx.jpg (photo) https://x.com/_/stat
 
 RT @eyeslasho: Read this. NPR veteran describes the transformation of NPR from a news to an activist organization after Trump's election:… https://x.com/_/status/1777738625750384930
 
-<img src="screenshots/1777738625750384930.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1777738625750384930.png" width="300">
 
 ---
 
@@ -862,7 +862,7 @@ RT @eyeslasho: Read this. NPR veteran describes the transformation of NPR from a
 
 https://t.co/an0qdZkt3X https://x.com/i/broadcasts/1mrGmyZdOWgGy https://x.com/_/status/1777404965557768647
 
-<img src="screenshots/1777404965557768647.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1777404965557768647.png" width="300">
 
 ---
 
@@ -870,7 +870,7 @@ https://t.co/an0qdZkt3X https://x.com/i/broadcasts/1mrGmyZdOWgGy https://x.com/_
 
 @GailAlfarATX Indeed. This secret program that bypasses the border entirely was only discovered by a random freedom of information act request. And the administration, now that they’ve been caught, is keeping this going and defending it to the death! https://x.com/_/status/1776352467636376027
 
-<img src="screenshots/1776352467636376027.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1776352467636376027.png" width="300">
 
 ---
 
@@ -890,7 +890,7 @@ So maybe we let in some cannibal gangs. What could possibly go wrong? 🤷♂️
 
 Mad Max is looking increasingly like an *optimistic* take lol https://pbs.twimg.com/media/GIYSZSXWoAERcE5.jpg (photo) https://x.com/_/status/1767120132378083391
 
-<img src="screenshots/1767120132378083391.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1767120132378083391.png" width="300">
 
 ---
 
@@ -898,7 +898,7 @@ Mad Max is looking increasingly like an *optimistic* take lol https://pbs.twimg.
 
 Accurate https://x.com/_/status/1765774926223442301
 
-<img src="screenshots/1765774926223442301.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1765774926223442301.png" width="300">
 
 ---
 
@@ -906,7 +906,7 @@ Accurate https://x.com/_/status/1765774926223442301
 
 @eyeslasho: “Super rich ex-wives who hate their former spouse” should filed be listed among “Reasons that Western Civilization died” https://x.com/_/status/1765523497764495843
 
-<img src="screenshots/1765523497764495843.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1765523497764495843.png" width="300">
 
 ---
 
@@ -914,7 +914,7 @@ Accurate https://x.com/_/status/1765774926223442301
 
 @tomrahme9: Hits on many levels 😂 https://x.com/_/status/1765439553735696833
 
-<img src="screenshots/1765439553735696833.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1765439553735696833.png" width="300">
 
 ---
 
@@ -922,7 +922,7 @@ Accurate https://x.com/_/status/1765774926223442301
 
 Sorry to bother everyone with this note, as it applies to people in the greater Austin area, but please go to the polls and vote for a new District Attorney! https://x.com/_/status/1765035782774137074
 
-<img src="screenshots/1765035782774137074.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1765035782774137074.png" width="300">
 
 ---
 
@@ -936,7 +936,7 @@ Sorry to bother everyone with this note, as it applies to people in the greater 
 
 RIP Harambe https://x.com/elonmusk/status/1761145071175372838
 
-<img src="screenshots/1761145071175372838.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1761145071175372838.png" width="300">
 
 ---
 
@@ -944,7 +944,7 @@ RIP Harambe https://x.com/elonmusk/status/1761145071175372838
 
 #### [vid] https://x.com/elonmusk/status/1760849418591547618
 
-<img src="screenshots/1760849418591547618.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1760849418591547618.png" width="300">
 
 ---
 
@@ -952,7 +952,7 @@ RIP Harambe https://x.com/elonmusk/status/1761145071175372838
 
 @elonmusk: The only way to prove he is not racist AND sexist is to put an Asian woman and a white woman on his basketball team! https://x.com/elonmusk/status/1744524285601816878
 
-<img src="screenshots/1744524285601816878.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1744524285601816878.png" width="300">
 
 ---
 
@@ -960,7 +960,7 @@ RIP Harambe https://x.com/elonmusk/status/1761145071175372838
 
 Mark Cuban is a racist https://x.com/elonmusk/status/1744519626367623579
 
-<img src="screenshots/1744519626367623579.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1744519626367623579.png" width="300">
 
 ---
 
@@ -974,7 +974,7 @@ Mark Cuban is a racist https://x.com/elonmusk/status/1744519626367623579
 
 @elonmusk: nbcnews.com/news/amp/rcna955… https://x.com/elonmusk/status/1729512960937042038
 
-<img src="screenshots/1729512960937042038.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1729512960937042038.png" width="300">
 
 ---
 
@@ -982,7 +982,7 @@ Mark Cuban is a racist https://x.com/elonmusk/status/1744519626367623579
 
 Does seem at least a little suspicious https://x.com/elonmusk/status/1729511790638145918
 
-<img src="screenshots/1729511790638145918.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1729511790638145918.png" width="300">
 
 ---
 
@@ -1610,7 +1610,7 @@ Music notation is a blunt instrument https://t.co/j7HCmDoayt https://x.com/elonm
 
 @HillaryClinton There is a tiny possibility there might be more to this story than meets the eye https://t.co/HCaF5DrRjP https://x.com/elonmusk/status/1586693291231178753
 
-<img src="screenshots/1586693291231178753.png" width="300">
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1586693291231178753.png" width="300">
 
 Archive: https://web.archive.org/web/20221030123645/https://twitter.com/elonmusk/status/1586693291231178753
 
