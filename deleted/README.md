@@ -1,3 +1,11 @@
+#### [Fri Nov 28, 2025 09:09:34 UTC]
+
+@elonmusk - RT @AnnCoulter: Afghans are a primitive people, most of whom have never encountered indoor plumbing, to say nothing of a floor. 90% told P… https://x.com/_/status/1994332829782573295
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1994332829782573295.png" width="300">
+
+---
+
 #### [Wed Nov 05, 2025 03:22:35 UTC]
 
 @elonmusk - RT @AdamLowisz: @elonmusk 🤣🤣🤣 https://pbs.twimg.com/media/G49KgKfWsAAx5Vh.jpg (photo) https://x.com/_/status/1985910590922268681
