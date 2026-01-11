@@ -6,6 +6,17 @@
 
 Deleted at ~ Sun Jan 11, 2026 10:20:00 AM UTC
 
+#### MISLEADING
+
+[[view note]](https://x.com/i/birdwatch/n/2010024705512616022) - optimistic-poplar-penguin (Shown notes: 25 · Rating impact: 346)\
+This is a satirical TikTok creator whose content is not intended to be taken literally.
+https://vt.tiktok.com/ZS5VoQmgJ/
+
+https://vt.tiktok.com/ZS5Vo6Hgb/
+
+His account.
+https://www.tiktok.com/@farahnewsamerica?_r=1&_t=ZS-92waR85HbnE
+
 ---
 
 #### [Fri Nov 28, 2025 09:09:34 UTC]
