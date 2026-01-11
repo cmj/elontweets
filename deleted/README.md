@@ -1,3 +1,13 @@
+#### [Sat Jan 10, 2026 00:02:25 UTC]
+
+@elonmusk - Real charmer … https://x.com/_/status/2009777814459781422
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2009777814459781422.png" width="300">
+
+Deleted at ~ Sun Jan 11, 2026 10:20:00 AM UTC
+
+---
+
 #### [Fri Nov 28, 2025 09:09:34 UTC]
 
 @elonmusk - RT @AnnCoulter: Afghans are a primitive people, most of whom have never encountered indoor plumbing, to say nothing of a floor. 90% told P… https://x.com/_/status/1994332829782573295
