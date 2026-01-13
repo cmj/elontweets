@@ -1,10 +1,18 @@
+#### [Mon Jan 12, 2026 12:47:17 UTC]
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2010695074363981866.png" width="300">
+
+Deleted at ~ Mon Jan 12, 2026 20:01:00 UTC
+
+---
+
 #### [Sat Jan 10, 2026 00:02:25 UTC]
 
 @elonmusk - Real charmer … https://x.com/_/status/2009777814459781422
 
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2009777814459781422.png" width="300">
 
-Deleted at ~ Sun Jan 11, 2026 10:20:00 AM UTC
+Deleted at ~ Sun Jan 11, 2026 10:20:00 UTC
 
 #### MISLEADING
 
