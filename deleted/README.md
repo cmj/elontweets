@@ -1,3 +1,17 @@
+#### [Tue Jan 27, 2026 12:55:03 UTC]
+
+Original:
+
+@elonmusk - WhatsApp is not safe and Signal is controlled by the woke mob. Use 𝕏 Char.
+
+Edited:
+
+@elonmusk - WhatsApp is not secure. Even Signal is questionable.  Use 𝕏 Chat. (Mon 17:08:52) https://x.com/_/status/2015955129975947615
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2016132848638369922.png" width="300">
+
+---
+
 #### [Tue Jan 27, 2026 01:12:35 UTC]
 
 @elonmusk - Good question  https://t.co/kypkZaczVC https://x.com/i/grok/share/182fe28ade9a49da88fe1aca40cb08b5 https://x.com/_/status/2015956064168996881
