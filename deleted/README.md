@@ -1,3 +1,17 @@
+#### [Sun Feb 01, 2026 11:43:52 UTC]
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2017926875109077365.png" width="300">
+
+---
+
+#### [Sat Jan 31, 2026 21:05:00 UTC]
+
+@elonmusk - @Kristennetten Of course.  They are trying to deflect responsibility to me from the truly guilty. I have been to any of Epstein’s party, his plane or his island.  But many others have. Those who have committed serious crimes need to be prosecuted. https://x.com/_/status/2017705697719496826
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2017705697719496826.png" width="300">
+
+---
+
 #### [Tue Jan 27, 2026 12:55:03 UTC]
 
 Original:
