@@ -65,6 +65,14 @@ https://www.tiktok.com/@farahnewsamerica?_r=1&_t=ZS-92waR85HbnE
 
 ---
 
+#### [Sun Dec 28, 2025 19:57:56 UTC]
+
+@elonmusk - @jonatanpallesen 8 or above level hotness should get an exemption 😂 https://x.com/_/status/2005367631914860723
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2005367631914860723.png" width="300">
+
+---
+
 #### [Fri Nov 28, 2025 09:09:34 UTC]
 
 @elonmusk - RT @AnnCoulter: Afghans are a primitive people, most of whom have never encountered indoor plumbing, to say nothing of a floor. 90% told P… https://x.com/_/status/1994332829782573295
