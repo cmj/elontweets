@@ -22,6 +22,8 @@
 
 Video: https://video.twimg.com/amplify_video/2018944780433276928/vid/avc1/464x688/KWcTJWHlRG7Rs0hF.mp4
 
+Alt: https://imgur.com/a/pwhlDmF
+
 ---
 
 #### [Sun Feb 01, 2026 11:43:52 UTC]
