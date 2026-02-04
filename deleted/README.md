@@ -1,3 +1,29 @@
+#### [Wed Feb 04, 2026 07:16:28 UTC]
+
+@elonmusk - @captwfcall @anammostarac Exactly https://x.com/_/status/2018946742490931372
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2018946742490931372.png" width="300">
+
+---
+
+#### [Wed Feb 04, 2026 07:15:56 UTC]
+
+@elonmusk - @lonewarriior @anammostarac Good one https://x.com/_/status/2018946607920930973
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2018946607920930973.png" width="300">
+
+---
+
+#### [Wed Feb 04, 2026 07:08:52 UTC]
+
+@elonmusk - @anammostarac Cupid, but he shoots arrows of Ozempic https://pbs.twimg.com/amplify_video_thumb/2018944780433276928/img/iYWSppDOedL37iIt.jpg (video) https://x.com/_/status/2018944832040018212
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2018944832040018212.png" width="300">
+
+Video: https://video.twimg.com/amplify_video/2018944780433276928/vid/avc1/464x688/KWcTJWHlRG7Rs0hF.mp4
+
+---
+
 #### [Sun Feb 01, 2026 11:43:52 UTC]
 
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2017926875109077365.png" width="300">
