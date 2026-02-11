@@ -72,6 +72,16 @@ Deleted at ~ Mon Jan 12, 2026 20:01:00 UTC
 
 ---
 
+#### [Mon Jan 12, 2026 12:35:56 UTC]
+
+@elonmusk - @Anarseldain I will be filing for full custody today, given her statements implying she might transition a one-year-old boy https://x.com/_/status/2010692217510236618
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2010692217510236618.png" width="300">
+
+Deleted at ~ Mon Jan 20, 2026 15:00:00 UTC
+
+---
+
 #### [Sat Jan 10, 2026 00:02:25 UTC]
 
 @elonmusk - Real charmer … https://x.com/_/status/2009777814459781422
@@ -79,6 +89,8 @@ Deleted at ~ Mon Jan 12, 2026 20:01:00 UTC
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2009777814459781422.png" width="300">
 
 Deleted at ~ Sun Jan 11, 2026 10:20:00 UTC
+
+---
 
 #### MISLEADING
 
@@ -1419,7 +1431,11 @@ https://t.co/Byu5rvy3Bn https://x.com/elonmusk/status/1630295008870907904
 
 #### [Wed Feb 22, 2023 20:25:20 UTC]
 
-☺️ https://t.co/Xok0CX2MUU https://x.com/elonmusk/status/1628491148124884992
+☺️  https://t.co/Xok0CX2MUU https://x.com/elonmusk/status/1628491148124884992
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1628491148124884992.png" width="300">
+
+Deleted at ~ Mon Feb 23, 2023 03:42:00 UTC
 
 ---
 
@@ -1427,11 +1443,19 @@ https://t.co/Byu5rvy3Bn https://x.com/elonmusk/status/1630295008870907904
 
 GG Kansas City @Chiefs!! @Rihanna show was 🔥🔥 https://x.com/elonmusk/status/1624983121576722434
 
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1624983121576722434.png" width="300">
+
+Deleted at ~ Mon Feb 13, 2023 07:45:00 UTC
+
 ---
 
 #### [Sun Feb 12, 2023 23:58:13 UTC]
 
 🇺🇸🇺🇸🇺🇸 Go @Eagles!!! 🇺🇸🇺🇸🇺🇸 https://x.com/elonmusk/status/1624920846166007808
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/1624920846166007808.png" width="300">
+
+Deleted at ~ Mon Feb 13, 2023 10:15:00 UTC
 
 ---
 
