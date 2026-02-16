@@ -1,3 +1,13 @@
+#### [Sun Feb 15, 2026 20:53:05 UTC]
+
+@elonmusk - She called ICE to get him deported 😂 https://x.com/_/status/2023138517581541725
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2023138517581541725.png" width="300">
+
+Deleted at ~ Sun Feb 15, 2026 23:53:00 UTC
+
+---
+
 #### [Wed Feb 04, 2026 07:16:28 UTC]
 
 @elonmusk - @captwfcall @anammostarac Exactly https://x.com/_/status/2018946742490931372
