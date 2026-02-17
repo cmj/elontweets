@@ -1,3 +1,13 @@
+#### [Tue Feb 17, 2026 05:48:05 UTC]
+
+@elonmusk - @USATODAY Do you not reveal your immense racism by not realizing that race is a social construct? https://x.com/_/status/2023635541829575093
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2023635541829575093.png" width="300">
+
+Deleted at ~ Tue Feb 17, 2026 06:15:00 UTC
+
+---
+
 #### [Sun Feb 15, 2026 20:53:05 UTC]
 
 @elonmusk - She called ICE to get him deported 😂 https://x.com/_/status/2023138517581541725
