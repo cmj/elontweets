@@ -1,3 +1,13 @@
+#### [Mon Mar 09, 2026 16:50:16 UTC]
+
+@elonmusk - @IterIntellectus @JoelWBerry 😂 https://x.com/_/status/2031049945105711611
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2031049945105711611.png" width="300">
+
+Deleted at ~ Mon Mar 09, 2026 17:15:00 UTC
+
+---
+
 #### [Tue Feb 17, 2026 05:48:05 UTC]
 
 @elonmusk - @USATODAY Do you not reveal your immense racism by not realizing that race is a social construct? https://x.com/_/status/2023635541829575093
