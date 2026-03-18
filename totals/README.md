@@ -1,6 +1,6 @@
 ## Last 30 Days
-Tweets: 2103 (73 per day)\
-Likes: 6923 (239 per day)
+Tweets: 2075 (72 per day)\
+Likes: 6636 (229 per day)
 
 ## 24 Hours
 Max: [**341**](../misc/most-tweets_24-hr.csv) - From `2024-11-23 14:29:53 CST` To `2024-11-24 14:28:44 CST`
