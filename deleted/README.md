@@ -1,3 +1,13 @@
+#### [Tue Mar 24, 2026 11:54:04 UTC]
+
+@elonmusk - Use Grok to proofread posts https://x.com/_/status/2036411220505636979
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2036411220505636979.png" width="300">
+
+Deleted at ~ Tue Mar 24, 2026 12:18:00 UTC
+
+---
+
 #### [Mon Mar 09, 2026 16:50:16 UTC]
 
 @elonmusk - @IterIntellectus @JoelWBerry 😂 https://x.com/_/status/2031049945105711611
