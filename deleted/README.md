@@ -1,3 +1,23 @@
+#### [Wed Apr 01, 2026 01:37:31 UTC]
+
+@elonmusk - Tesla https://x.com/_/status/2039155164100321771
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2039155164100321771.png" width="300">
+
+Deleted at ~ Wed Apr 01, 2026 04:31:00 UTC
+
+---
+
+#### [Tue Mar 31, 2026 08:30:45 UTC]
+
+@elonmusk - https://t.co/BZKzmh5HJi https://video.twimg.com/amplify_video/2038471341532209152/vid/avc1/576x1024/4Hsn_oTDcDJvZbDe.mp4 (video) https://x.com/_/status/2038896771905306662
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2038896771905306662.png" width="300">
+
+Deleted at ~ Wed Apr 01, 2026 04:20:00 UTC
+
+---
+
 #### [Tue Mar 24, 2026 11:54:04 UTC]
 
 @elonmusk - Use Grok to proofread posts https://x.com/_/status/2036411220505636979
