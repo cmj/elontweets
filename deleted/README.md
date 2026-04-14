@@ -6,6 +6,8 @@
 
 Deleted at ~ Mon Apr 13, 2026 23:06:00 UTC
 
+[Video mirror](https://anonmp4.help/v/MGt5F14OajFhEmM)
+
 ---
 
 #### [Wed Apr 01, 2026 01:37:31 UTC]
@@ -25,6 +27,8 @@ Deleted at ~ Wed Apr 01, 2026 04:31:00 UTC
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2038896771905306662.png" width="300">
 
 Deleted at ~ Wed Apr 01, 2026 04:20:00 UTC
+
+[Video mirror](https://anonmp4.help/v/Gs6VcGIodKeGASm)
 
 ---
 
