@@ -1,3 +1,13 @@
+#### [Mon Apr 13, 2026 23:04:24 UTC]
+
+@elonmusk - https://t.co/LMWylPgIIv https://video.twimg.com/amplify_video/2043700268647489537/vid/avc1/648x368/VGIPlSC-0KRol5LF.mp4 (video) https://x.com/_/status/2043827671751373026
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2043827671751373026.png" width="300">
+
+Deleted at ~ Mon Apr 13, 2026 23:06:00 UTC
+
+---
+
 #### [Wed Apr 01, 2026 01:37:31 UTC]
 
 @elonmusk - Tesla https://x.com/_/status/2039155164100321771
