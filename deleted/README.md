@@ -1,6 +1,50 @@
+#### [Sat May 02, 2026 08:32:44 UTC]
+
+@elonmusk - @stevenmarkryan … https://x.com/elonmusk/status/2050493680126234669
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2050493680126234669.png" width="300">
+
+---
+
+#### [Sat May 02, 2026 08:23:11 UTC]
+
+@elonmusk - https://video.twimg.com/amplify_video/2049931755495522304/vid/avc1/1920x1080/doDW6R1U0KiumgqS.mp4?tag=27 https://x.com/elonmusk/status/2050491276978700523
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2050491276978700523.png" width="300">
+
+Deleted at ~ Mon May 03, 2026 12:23:00 UTC
+
+---
+
+#### [Sat May 02, 2026 08:04:39 UTC]
+
+@elonmusk - True https://video.twimg.com/amplify_video/2050344005515583488/vid/avc1/3840x2160/TzU7MV3AcE9s-00V.mp4?tag=27 https://x.com/elonmusk/status/2050486615278297307
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2050486615278297307.png" width="300">
+
+Deleted at ~ Mon May 03, 2026 12:21:00 UTC
+
+---
+
+#### [Fri May 01, 2026 04:44:23 UTC]
+
+@elonmusk - @AutismCapital @DINOR0AR 😂 https://x.com/elonmusk/status/2050073827615588784
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2050073827615588784.png" width="300">
+
+---
+
+#### [Wed Apr 29, 2026 06:07:16 UTC]
+
+@elonmusk - @AutismCapital 😂 https://x.com/elonmusk/status/2049369911081013541
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2049369911081013541.png" width="300">
+
+---
+
 #### [Mon Apr 13, 2026 23:04:24 UTC]
 
-@elonmusk - https://t.co/LMWylPgIIv https://video.twimg.com/amplify_video/2043700268647489537/vid/avc1/648x368/VGIPlSC-0KRol5LF.mp4 (video) https://x.com/_/status/2043827671751373026
+@elonmusk - https://t.co/LMWylPgIIvDeleted at ~ Mon May 03, 2026 12:23:00 UTC https://video.twimg.com/amplify_video/2043700268647489537/vid/avc1/648x368/VGIPlSC-0KRol5LF.mp4 (video) https://x.com/_/status/2043827671751373026
 
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2043827671751373026.png" width="300">
 
