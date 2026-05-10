@@ -182,6 +182,14 @@ Deleted at ~ Tue Jan 27, 2026 06:44:00 UTC
 
 ---
 
+#### [Tue Jan 20, 2026 07:27:09 UTC]
+
+@elonmusk - RT @SickOfItteo: She voted against a grooming gang enquiry https://pbs.twimg.com/media/G--urDJW4AAcRAE.jpg (photo) https://x.com/_/status/2013513614758740182
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2013513614758740182.png" width="300">
+
+---
+
 #### [Mon Jan 12, 2026 12:47:17 UTC]
 
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2010695074363981866.png" width="300">
