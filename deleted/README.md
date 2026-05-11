@@ -1,3 +1,23 @@
+#### [Sun May 10, 2026 05:10:41 UTC]
+
+@elonmusk - (Don’t cut your balls off, guys, really) https://x.com/elonmusk/status/2053341934182395972
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2053341934182395972.png" width="300">
+
+Deleted at ~ Sun May 10, 2026 21:15:00 UTC
+
+---
+
+#### [Sun May 10, 2026 05:07:42 UTC]
+
+@elonmusk - Bitches Money No Taxes Party https://x.com/elonmusk/status/2053341186530947337
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2053341186530947337.png" width="300">
+
+Deleted at ~ Sun May 10, 2026 21:15:00 UTC
+
+---
+
 #### [Sat May 02, 2026 08:32:44 UTC]
 
 @elonmusk - @stevenmarkryan … https://x.com/elonmusk/status/2050493680126234669
