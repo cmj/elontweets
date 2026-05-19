@@ -1,3 +1,15 @@
+#### [Mon May 18, 2026 20:30:08 UTC]
+
+This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent.
+
+She just handed out a free license to loot charities if you can keep the looting quiet for a few years!
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2056472426658058358.png" width="300">
+
+Deleted at ~ Sun May 18, 2026 22:03:00 UTC
+
+---
+
 #### [Sun May 10, 2026 05:10:41 UTC]
 
 @elonmusk - (Don’t cut your balls off, guys, really) https://x.com/elonmusk/status/2053341934182395972
