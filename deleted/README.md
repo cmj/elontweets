@@ -1,3 +1,11 @@
+#### [Tue May 19, 2026 19:27:21 UTC]
+
+Deleted malicious intent/misinformation retweet.
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2056819015574794401.png" width="300">
+
+---
+
 #### [Mon May 18, 2026 20:30:08 UTC]
 
 This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent.
