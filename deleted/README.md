@@ -4,6 +4,13 @@ Deleted malicious intent/misinformation retweet.
 
 <img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2056819015574794401.png" width="300">
 
+***Birdwatch note***
+San Diego Mosque shooters [redacted], were not transgender, nor were they known to be a couple.
+
+On the contrary, the two had written hateful rhetoric towards many minority groups, including LGBTQ+, prior to the shooting.
+
+https://apnews.com/article/islamic-center-san-diego-shooting-mosque-hate-d81d87793aa3eea836d45a9d5b1f297b
+
 ---
 
 #### [Mon May 18, 2026 20:30:08 UTC]
