@@ -1,3 +1,13 @@
+#### [Sun May 31, 2026 22:35:56 UTC]
+
+@elonmusk - Yes https://x.com/elonmusk/status/2061215128981291274
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2061215128981291274.png" width="300">
+
+Deleted at ~ Sun May 31, 2026 23:00:00 UTC
+
+---
+
 #### [Tue May 19, 2026 19:27:21 UTC]
 
 Deleted malicious intent/misinformation retweet.
