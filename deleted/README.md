@@ -1,3 +1,13 @@
+#### [Wed Jun 03, 2026 06:54:12 UTC]
+
+@elonmusk - https://pbs.twimg.com/media/HJ3tdQ0a0AAOgZn.jpg https://x.com/elonmusk/status/2062065297583190110
+
+<img src="https://raw.githubusercontent.com/cmj/elontweets/main/deleted/screenshots/2062065297583190110.png" width="300">
+
+Deleted at ~ Wed Jun 03, 2026 07:15:00 UTC
+
+---
+
 #### [Sun May 31, 2026 22:35:56 UTC]
 
 @elonmusk - Yes https://x.com/elonmusk/status/2061215128981291274
