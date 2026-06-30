@@ -82502,3 +82502,106 @@
 [26/06/28 19:35:06] @elonmusk - @ArtemisConsort 💯 (Sun 19:31:56) https://x.com/elonmusk/status/2071421376716579236
 [26/06/28 19:40:12] @elonmusk - RT @jonatanpallesen: If they genuinely think that the USAID cuts have caused the deaths of hundreds of thousands, or millions, shouldn't th… (Sun 19:35:42) https://x.com/elonmusk/status/2071422326055342243
 [26/06/28 19:40:14] @elonmusk - @chuckdpete 🎯 (Sun 19:36:08) https://x.com/elonmusk/status/2071422436201898178
+[26/06/29 03:05:06] @elonmusk - RT @aegeantic: Today I was walking around in Sausalito and asking @grok voice how much apartments around me cost to rent and it was truly a… (Mon 03:01:48) https://x.com/elonmusk/status/2071534591395999825
+[26/06/29 03:10:12] @elonmusk - @ryanwang In some cases, where we don’t have access to the source code, eg network switch software, we are also decompiling and modifying the binaries to improve performance (Mon 03:08:42) https://x.com/elonmusk/status/2071536327930060974
+[26/06/29 03:10:14] @elonmusk - RT @elonmusk: @ryanwang In some cases, where we don’t have access to the source code, eg network switch software, we are also decompiling a… (Mon 03:09:02) https://x.com/elonmusk/status/2071536409811300853
+[26/06/29 03:15:06] @elonmusk - Grok Build daily updates (Mon 03:13:39) https://x.com/elonmusk/status/2071537575248949303
+[26/06/29 03:20:12] @elonmusk - Tesla FSD v14 Lite is rolling out to customers with our AI3 hardware (Mon 03:16:34) https://x.com/elonmusk/status/2071538306039357838
+[26/06/29 03:20:14] @elonmusk - @HarshThoughtful @ryanwang Same. I worked video games in the 90s with no graphics accelerators. Every CPU clock cycle mattered. (Mon 03:18:48) https://x.com/elonmusk/status/2071538871381221618
+[26/06/29 03:25:12] @elonmusk - @wholemars With great power (direct memory management) comes great responsibility (Mon 03:20:46) https://x.com/elonmusk/status/2071539365294092586
+[26/06/29 03:25:14] @elonmusk - @ArthurMacwaters Exactly (Mon 03:21:09) https://x.com/elonmusk/status/2071539461452599754
+[26/06/29 03:30:07] @elonmusk - @stevenmarkryan Neuralink is needed to solve the super low & lossy output bandwidth of humans.  Our input bandwidth, thanks to vision, is many orders of magnitude higher than our output bandwidth, but could also be greatly improved.  By addressing these bandwidth limitations and greatly (Mon 03:28:47) https://x.com/elonmusk/status/2071541382515232809
+[26/06/29 03:30:09] @elonmusk - RT @elonmusk: @stevenmarkryan Neuralink is needed to solve the super low & lossy output bandwidth of humans.  Our input bandwidth, thanks… (Mon 03:28:57) https://x.com/elonmusk/status/2071541423761994120
+[26/06/29 03:35:10] @elonmusk - Nice work by the @Tesla_AI team! The AI3 computer only has ~15% of the effective memory bandwidth of AI4, so this was a tough challenge. (Mon 03:31:43) https://x.com/elonmusk/status/2071542122184921221
+[26/06/29 03:35:13] @elonmusk - @noen25083 @HarshThoughtful @ryanwang 😂💯 We are using some assembly (and direct ASIC primitives) for operations that are done trillions of times per second (Mon 03:34:13) https://x.com/elonmusk/status/2071542750747459752
+[26/06/29 04:00:12] @elonmusk - @visegrad24 Deal with traitors first, then invaders (Mon 03:55:14) https://x.com/elonmusk/status/2071548037827014697
+[26/06/29 04:00:14] @elonmusk - @wholemars Guess not (Mon 03:56:04) https://x.com/elonmusk/status/2071548246351057335
+[26/06/29 04:00:16] @elonmusk - Highest death count of any philosophy (Mon 03:57:17) https://x.com/elonmusk/status/2071548554921840788
+[26/06/29 04:00:18] @elonmusk - RT @XFreeze: SpaceX just launched 2 Falcon 9 rockets in 10 hours Falcon 9 lifted off from California and delivered 24 more Starlink satell… (Mon 03:57:34) https://x.com/elonmusk/status/2071548624308248976
+[26/06/29 04:00:20] @elonmusk - RT @WallStreetMav: Feminism was created to dismantle the family, not to liberate women. https://pbs.twimg.com/media/G8-wZlvWoAA5uSb.png (Mon 03:57:45) https://x.com/elonmusk/status/2071548670915318187
+[26/06/29 04:00:22] @elonmusk - @WallStreetMav Feminism and lack of children has killed the happiness of so many women (Mon 03:58:33) https://x.com/elonmusk/status/2071548874527789375
+[26/06/29 04:00:24] @elonmusk - RT @BLKMDL3: Really impressive first few drives with FSD v14 lite! Big leap in capability and feature set from v12.6.4, it’s tuned for saf… (Mon 03:58:52) https://x.com/elonmusk/status/2071548954441929210
+[26/06/29 04:05:10] @elonmusk - RT @BillAckman: Well said (Mon 04:00:06) https://x.com/elonmusk/status/2071549262882562125
+[26/06/29 04:05:12] @elonmusk - @infantrydort So many of the best of Europe died in all those wars (Mon 04:01:15) https://x.com/elonmusk/status/2071549550842503621
+[26/06/29 04:05:14] @elonmusk - For a US official to fly the flag of another country after having sworn an oath of citizenship that requires sole loyalty to America is nothing but treason! (Mon 04:03:53) https://x.com/elonmusk/status/2071550216856011213
+[26/06/29 04:05:16] @elonmusk - RT @OldeWorldOrder: @HouseGOP Time to invoke the Communist Control Act. Marxism is an enemy ideology, and it needs to be treated as such. (Mon 04:04:14) https://x.com/elonmusk/status/2071550305167147311
+[26/06/29 04:05:18] @elonmusk - Starlink New Zealand (Mon 04:04:42) https://x.com/elonmusk/status/2071550422079177070
+[26/06/29 04:10:07] @elonmusk - Oppressive & irrational government rules only make things worse (Mon 04:06:46) https://x.com/elonmusk/status/2071550940637733355
+[26/06/29 05:25:07] @elonmusk - RT @AmyMek: 🚨ANOTHER CITY FALLS: DOWNTOWN CHICAGO SEIZED FOR ISLAM While our leaders obsess over Europe’s slow death, Chicago is being cap… (Mon 05:22:56) https://x.com/elonmusk/status/2071570106983862753
+[26/06/29 05:25:09] @elonmusk - RT @ScrwyL: @C_3C_3 Originally USAID was a slush fund invented in 1964 during the cold war under the Johnson Doctrine. An election fund to… (Mon 05:23:40) https://x.com/elonmusk/status/2071570292032352744
+[26/06/29 05:25:11] @elonmusk - @C_3C_3 Good question (Mon 05:23:55) https://x.com/elonmusk/status/2071570356813328885
+[26/06/29 05:30:09] @elonmusk - @Rothmus Yes (Mon 05:25:11) https://x.com/elonmusk/status/2071570673969897856
+[26/06/29 05:35:10] @elonmusk - There are no American flags, but there are flags of many other countries.  Those whose loyalty is to another country over America are, by definition, traitors and must be expelled immediately. (Mon 05:30:12) https://x.com/elonmusk/status/2071571936241475706
+[26/06/29 05:35:12] @elonmusk - RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://video.twimg.com/amplify_video/2071421892741746688/vid/avc1/3840x2160/ayxx2M7-818v7nQd.mp4 (Mon 05:30:18) https://x.com/elonmusk/status/2071571960895537553
+[26/06/29 07:45:06] @elonmusk - @nicksortor Yes, as unfortunately this decision greatly helps fraud (Mon 07:43:57) https://x.com/elonmusk/status/2071605596034318646
+[26/06/29 07:50:18] @elonmusk - Interesting (Mon 07:46:07) https://x.com/elonmusk/status/2071606142753542409
+[26/06/29 07:50:20] @elonmusk - RT @Tesla_AI: v14 Lite Release Notes: – Distilled the intelligence from HW4 V14 into HW3. This allows HW3 to directly learn how to handle… (Mon 07:46:24) https://x.com/elonmusk/status/2071606213456859284
+[26/06/29 08:00:11] @elonmusk - @Carlos__Turcios @DallasExpress In Texas? Wow (Mon 07:56:15) https://x.com/elonmusk/status/2071608690612810014
+[26/06/29 08:00:13] @elonmusk - @NiohBerg It is an invasion https://x.com/i/grok/share/36337e0091424922ba1c193b2dd53d61 (Mon 07:57:39) https://x.com/elonmusk/status/2071609044276539709
+[26/06/29 08:00:15] @elonmusk - RT @NiohBerg: This is Linton-on-Ouse in England. Population 1200. The British state is planning to dump 3,750 migrants into this village… (Mon 07:57:42) https://x.com/elonmusk/status/2071609058902073803
+[26/06/29 08:05:11] @elonmusk - RT @PalmerLuckey: At least 1,200 people died of heatstroke in France last Wednesday, mostly elderly people indoors. Even crazier, about 70… (Mon 08:03:06) https://x.com/elonmusk/status/2071610414610207019
+[26/06/29 08:10:07] @elonmusk - @europa It is true  https://x.com/i/grok/share/1af374aaae3a4a62a0b2bbf9b6ed6086 (Mon 08:06:27) https://x.com/elonmusk/status/2071611258449617302
+[26/06/29 08:10:09] @elonmusk - RT @XFreeze: SpaceX has now completed its 60th dedicated Starlink launch of 2026, putting nearly 1,600 new Starlink satellites into orbit t… (Mon 08:06:39) https://x.com/elonmusk/status/2071611309586542870
+[26/06/29 08:10:11] @elonmusk - RT @SawyerMerritt: Think about this, the 7+ year old Teslas with AI3 that are now getting FSD V14 Lite have a more capable self-driving sys… (Mon 08:06:54) https://x.com/elonmusk/status/2071611371679105154
+[26/06/29 08:10:13] @elonmusk - RT @ZubyMusic: I'm from the UK...  And besides that, more Europeans die from heat every year than Americans die from guns, even including… (Mon 08:07:00) https://x.com/elonmusk/status/2071611399160139797
+[26/06/29 08:10:15] @elonmusk - Correct (Mon 08:09:35) https://x.com/elonmusk/status/2071612046894936136
+[26/06/29 08:20:09] @elonmusk - Yup (Mon 08:15:06) https://x.com/elonmusk/status/2071613438019666143
+[26/06/29 08:20:11] @elonmusk - @dr_duchesne True (Mon 08:16:59) https://x.com/elonmusk/status/2071613908423422078
+[26/06/29 08:25:11] @elonmusk - The hard truth is that USAID, with its constant support of often violent leftist regime change, caused a lot of death! (Mon 08:22:11) https://x.com/elonmusk/status/2071615220326220158
+[26/06/29 08:25:13] @elonmusk - @TRobinsonNewEra !! (Mon 08:22:46) https://x.com/elonmusk/status/2071615363524034580
+[26/06/29 08:25:15] @elonmusk - @markessien @aaronburnett It’s mostly C (Mon 08:24:04) https://x.com/elonmusk/status/2071615693045342350
+[26/06/29 08:55:15] @elonmusk - True (Mon 08:54:04) https://x.com/elonmusk/status/2071623241668444308
+[26/06/29 09:10:21] @elonmusk - RT @SenEricSchmitt: Justice Alito's dissent lays it out plain as day. This opinion opens the door to more fraud and it is not difficult to… (Mon 09:06:33) https://x.com/elonmusk/status/2071626384024236434
+[26/06/29 09:10:23] @elonmusk - RT @techdevnotes: xAI has added Build page to xAI Console https://pbs.twimg.com/media/HL_iPwTbgAAaNso.jpg (Mon 09:08:13) https://x.com/elonmusk/status/2071626804998091150
+[26/06/29 09:15:16] @elonmusk - RT @Jaaneek: If you are building harnesses or AI tools and would like help adding grok in there hit me up More powerful models are coming… (Mon 09:13:05) https://x.com/elonmusk/status/2071628026496893309
+[26/06/29 09:40:10] @elonmusk - RT @KatieMiller: But Democrats told me Elon didn’t do philanthropy… https://pbs.twimg.com/media/HL_WLEqWIAAy9_3.jpg (Mon 09:36:28) https://x.com/elonmusk/status/2071633913277993044
+[26/06/29 09:40:12] @elonmusk - @BasilTheGreat @DailyMail !! (Mon 09:36:41) https://x.com/elonmusk/status/2071633968106016953
+[26/06/29 10:45:16] @elonmusk - Cursor for iOS! (Mon 10:43:25) https://x.com/elonmusk/status/2071650759330906253
+[26/06/29 10:45:18] @elonmusk - @DataRepublican @BarbMcQuade It really does! (Mon 10:44:15) https://x.com/elonmusk/status/2071650970136670456
+[26/06/29 10:50:06] @elonmusk - I love optimizing machines  It’s like a beautiful puzzle That also achieves true usefulness (Mon 10:47:16) https://x.com/elonmusk/status/2071651728202543557
+[26/06/29 10:50:08] @elonmusk - It’s total bullshit! Deaths in Africa DECREASED after cutting USAID funding, which they were using to push for violent overthrow of governments!! (Mon 10:49:04) https://x.com/elonmusk/status/2071652181854343349
+[26/06/29 10:55:14] @elonmusk - @PeterSweden7 The politicians who did this will go to prison for life (Mon 10:49:56) https://x.com/elonmusk/status/2071652402202075588
+[26/06/29 10:55:16] @elonmusk - RT @ericzakariasson: i've been using cursor mobile on the go for the last weeks, and having access to all cloud agents from everywhere is r… (Mon 10:50:16) https://x.com/elonmusk/status/2071652486209843689
+[26/06/29 11:00:27] @elonmusk - @TheBabylonBee @SethDillon 😂 (Mon 10:56:20) https://x.com/elonmusk/status/2071654012156342510
+[26/06/29 11:00:29] @elonmusk - RT @C_3C_3: USAID had 64 years and $2 trillion to end world hunger. The Left is acting like all they needed was 1 more year. By ending US… (Mon 10:56:59) https://x.com/elonmusk/status/2071654176677883992
+[26/06/29 12:05:12] @elonmusk - RT @NASAAdmin: As we celebrate America's 250th birthday with @Freedom250, we're reminded that our nation's story has always been defined by… (Mon 12:03:08) https://x.com/elonmusk/status/2071670822519853343
+[26/06/29 12:10:10] @elonmusk - RT @milichab: Try SpaceXAI Voice models in the Vercel AI Gateway (Mon 12:08:52) https://x.com/elonmusk/status/2071672263246508507
+[26/06/29 17:55:12] @elonmusk - @Templarpilled Makes sense (Mon 17:51:14) https://x.com/elonmusk/status/2071758422727610786
+[26/06/29 17:55:14] @elonmusk - @BasilTheGreat Happened again (Mon 17:52:09) https://x.com/elonmusk/status/2071758654278386038
+[26/06/29 18:05:20] @elonmusk - @liz_churchill10 Terrible (Mon 18:04:42) https://x.com/elonmusk/status/2071761813247860834
+[26/06/29 18:10:12] @elonmusk - RT @PeterDiamandis: Alibaba allegedly ran 28.8 million fraudulent API exchanges across 25,000 fake accounts to steal Claude's intelligence.… (Mon 18:06:38) https://x.com/elonmusk/status/2071762302068740115
+[26/06/29 19:35:11] @elonmusk - RT @ndstudio: Today, we are releasing Rampart: a 14.7MB machine learning model designed to protect citizens’ privacy by redacting personal… (Mon 19:31:42) https://x.com/elonmusk/status/2071783708617523659
+[26/06/29 19:35:13] @elonmusk - Try it out (Mon 19:33:55) https://x.com/elonmusk/status/2071784267172983076
+[26/06/29 19:40:18] @elonmusk - @250YearsAgoLive I can’t help but read the archaic letter for “s” in a lisp (Mon 19:36:09) https://x.com/elonmusk/status/2071784825799750010
+[26/06/29 19:40:20] @elonmusk - @the_jefferymead So many times (Mon 19:36:31) https://x.com/elonmusk/status/2071784920033214753
+[26/06/29 19:40:22] @elonmusk - Exactly (Mon 19:39:44) https://x.com/elonmusk/status/2071785727860342961
+[26/06/29 19:45:18] @elonmusk - RT @FedSoc: One vote stood between America and independence. The man who had to cast it was 80 miles away, battling cancer, as a violent th… (Mon 19:40:48) https://x.com/elonmusk/status/2071786000020332751
+[26/06/29 19:45:20] @elonmusk - RT @JOBhakdi: Citizen Vigilante is now #1 on Apple and on Amazon Video. A $750k movie beating blockbusters with hundreds of millions in pr… (Mon 19:42:08) https://x.com/elonmusk/status/2071786334067269771
+[26/06/29 19:45:22] @elonmusk - RT @cb_doge: 85% of reported scam complaints involving social media were linked to Facebook, while 𝕏 had the lowest at just 0.1%. • Facebo… (Mon 19:42:23) https://x.com/elonmusk/status/2071786396243632148
+[26/06/29 19:45:24] @elonmusk - RT @SwipeWright: MacKenzie Scott has donated over $26 billion to nonprofits. Around $1 billion of that ($786M confirmed but many donation… (Mon 19:43:08) https://x.com/elonmusk/status/2071786585817797021
+[26/06/29 19:45:26] @elonmusk - Bingo (Mon 19:44:09) https://x.com/elonmusk/status/2071786841439642060
+[26/06/29 19:50:17] @elonmusk - @Forbes Deaths DECREASED in Africa after USAID funding was cut, because they were killing people with by pushing violent leftist regime change (Mon 19:47:45) https://x.com/elonmusk/status/2071787747421966523
+[26/06/29 19:50:19] @elonmusk - @JohnLeFevre 🎯 (Mon 19:49:00) https://x.com/elonmusk/status/2071788063185875200
+[26/06/29 19:55:04] @elonmusk - @lporiginalg @Alonso_GD Because he’s a piece of shit who loves murder (Mon 19:52:05) https://x.com/elonmusk/status/2071788837580288353
+[26/06/29 20:00:22] @elonmusk - They are such liars! (Mon 19:55:53) https://x.com/elonmusk/status/2071789793902534993
+[26/06/29 20:00:24] @elonmusk - RT @SawyerMerritt: Ford CEO Jim Farley in new interview on Chinese EV competition: "There's no real competition from Tesla, GM or Ford wit… (Mon 19:56:07) https://x.com/elonmusk/status/2071789851834187923
+[26/06/29 20:00:26] @elonmusk - @NickKristof @christopherrufo You’re an utter piece of shit and a liar (Mon 19:57:38) https://x.com/elonmusk/status/2071790233633321160
+[26/06/29 20:05:06] @elonmusk - @C_3C_3 💯 (Mon 20:01:57) https://x.com/elonmusk/status/2071791318884348126
+[26/06/29 20:05:08] @elonmusk - Exactly (Mon 20:04:43) https://x.com/elonmusk/status/2071792015205966208
+[26/06/29 20:05:10] @elonmusk - @bitcloud 💯 (Mon 20:04:54) https://x.com/elonmusk/status/2071792062509285677
+[26/06/29 20:10:12] @elonmusk - @mazemoore Nothing that Kristoff has said is true. He is an utter piece of shit and liar. (Mon 20:06:17) https://x.com/elonmusk/status/2071792411395621000
+[26/06/29 20:10:14] @elonmusk - @Anc_Aesthetics Kristof is utterly evil (Mon 20:07:06) https://x.com/elonmusk/status/2071792615658324114
+[26/06/29 20:10:16] @elonmusk - @Cyber_Trailer Kristof is lying through his teeth (Mon 20:08:38) https://x.com/elonmusk/status/2071793002138235215
+[26/06/29 20:20:13] @elonmusk - @mazemoore AOC is just an actor.  It’s her puppet masters that are the problem.  She is spouting insane lies that are disprovable by a Google search, but a lot of people will believe her. (Mon 20:15:19) https://x.com/elonmusk/status/2071794683869610227
+[26/06/29 20:20:15] @elonmusk - https://video.twimg.com/ext_tw_video/1781704769251258368/pu/vid/avc1/1920x1080/vBI8cbc4jEHnj4Dt.mp4 (Mon 20:16:20) https://x.com/elonmusk/status/2071794940930068983
+[26/06/29 20:20:17] @elonmusk - @Dchab10 It’s the schools (Mon 20:16:58) https://x.com/elonmusk/status/2071795100607193548
+[26/06/29 20:35:08] @elonmusk - @JackPosobiec 💯 (Mon 20:31:31) https://x.com/elonmusk/status/2071798761899143639
+[26/06/29 20:40:14] @elonmusk - RT @iAnonPatriot: It’s fascinating how Democrats never call for George Soros to be taxed more.  His net worth is $7.5 billion. https://t.c… (Mon 20:38:16) https://x.com/elonmusk/status/2071800461573714291
+[26/06/29 20:45:07] @elonmusk - @thejefflutz The level of psychotic propaganda aimed at me from the left is reaching epic proportions (Mon 20:40:24) https://x.com/elonmusk/status/2071800996997570979
+[26/06/29 21:20:14] @elonmusk - Yup (Mon 21:15:41) https://x.com/elonmusk/status/2071809876490063928
+[26/06/29 21:20:16] @elonmusk - RT @GadSaad: Happy birthday to a truly legendary intellectual! (Mon 21:17:36) https://x.com/elonmusk/status/2071810356620546234
+[26/06/29 21:30:08] @elonmusk - Cybercab with no steering wheel or pedals driving around Austin https://video.twimg.com/amplify_video/2071800953963958272/vid/avc1/3840x2160/OgCPwdkBI0cGALad.mp4 (Mon 21:28:18) https://x.com/elonmusk/status/2071813050978480423
+[26/06/29 21:35:16] @elonmusk - @EndWokeness … (Mon 21:30:27) https://x.com/elonmusk/status/2071813593901756906
+[26/06/29 23:05:05] @elonmusk - RT @Scobleizer: Being at the launch of Cybercab two years ago was magic. A decade from now there will be millions of these things rolling… (Mon 23:00:03) https://x.com/elonmusk/status/2071836139556651512
+[26/06/29 23:05:08] @elonmusk - The AOC puppet is just flat-out lying (Mon 23:01:11) https://x.com/elonmusk/status/2071836426316984797
+[26/06/29 23:10:10] @elonmusk - RT @TruthFairy131: In the UK, Police officers would have special "cop nights" run by the Pakistani rape gangs where they were allowed to ga… (Mon 23:07:40) https://x.com/elonmusk/status/2071838058987577407
