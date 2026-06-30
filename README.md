@@ -10,7 +10,7 @@ $ gnuplot -c box.gp
 ```
 
 ### Notes
- - [elonmusk-all-tweets.csv](elonmusk-all-tweets.csv) is every available tweet since 2010 and retweets starting Jan 2025, all with UTC timestamps.  
+ - [elonmusk-all-tweets.csv](elonmusk-all-tweets.csv) is every available tweet and retweet since 2010, all with UTC timestamps.  
  - [/totals](/totals) shows rolling month statistics and sorted daily-max tables. 
  - [elon_likes.txt](/elon_likes.txt) contains Likes since 2023-01-16 until 2024-06-13
  - [elonmusk.csv](/elonmusk.csv) is a daily tweets and likes csv file.
