@@ -82870,3 +82870,52 @@
 [26/07/07 23:25:10] @elonmusk - Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost. (Tue 23:21) https://x.com/elonmusk/status/2074740539874775163
 [26/07/07 23:25:12] @elonmusk - @TimDraper 🚀❤️ (Tue 23:23) https://x.com/elonmusk/status/2074741174049325084
 [26/07/07 23:25:14] @elonmusk - @kevinnbass 💯 (Tue 23:24) https://x.com/elonmusk/status/2074741410083848509
+[26/07/08 09:15:17] @elonmusk - Correct (Wed 09:13) https://x.com/elonmusk/status/2074889665119740341
+[26/07/08 09:35:18] @elonmusk - We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests. The 2T model will finish training this month and be available to customers next month. (Wed 09:30) https://x.com/elonmusk/status/2074893922812252354
+[26/07/08 09:40:10] @elonmusk - RT @yunta_tsai: Has been my regular work horse for weeks. Impressive indeed. (Wed 09:39) https://x.com/elonmusk/status/2074896252148322617
+[26/07/08 10:25:12] @elonmusk - RT @Oilfield_Rando: There was literally a Bolshevik takeover of the Smithsonian. Democrats can never be allowed to take power again. https… (Wed 10:24) https://x.com/elonmusk/status/2074907587569430917
+[26/07/08 10:30:12] @elonmusk - @Oilfield_Rando They hate America (Wed 10:25) https://x.com/elonmusk/status/2074907662576201993
+[26/07/08 10:30:13] @elonmusk - @PeterDiamandis Like eating a bag of marbles (Wed 10:26) https://x.com/elonmusk/status/2074907871280546298
+[26/07/08 10:30:15] @elonmusk - @AndrewCurran_ AI is advancing at an incredible pace (Wed 10:27) https://x.com/elonmusk/status/2074908142136091003
+[26/07/08 10:35:06] @elonmusk - An inspiring vision of the future is needed (Wed 10:31) https://x.com/elonmusk/status/2074909335914762458
+[26/07/08 10:35:07] @elonmusk - @dvorahfr Critical feedback is always appreciated (Wed 10:33) https://x.com/elonmusk/status/2074909712663921122
+[26/07/08 10:40:14] @elonmusk - RT @elonmusk: @dvorahfr Critical feedback is always appreciated (Wed 10:33) https://x.com/elonmusk/status/2074909761170997402
+[26/07/08 10:40:17] @elonmusk - Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & (Wed 10:38) https://x.com/elonmusk/status/2074911038286295049
+[26/07/08 10:40:18] @elonmusk - @RonDeSantis They are traitors, plain and simple (Wed 10:39) https://x.com/elonmusk/status/2074911146654466073
+[26/07/08 10:45:14] @elonmusk - We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat message if a post you interacted with is corrected (Wed 10:42) https://x.com/elonmusk/status/2074912099554201969
+[26/07/08 10:45:16] @elonmusk - https://pbs.twimg.com/media/HMuRtGXW8AA7LPG.jpg (Wed 10:43) https://x.com/elonmusk/status/2074912266961527141
+[26/07/08 10:45:18] @elonmusk - @farzyness I think it’s good, but lmk if not (Wed 10:44) https://x.com/elonmusk/status/2074912438609199439
+[26/07/08 12:05:09] @elonmusk - Try out Grok 4.5 in Cursor! (Wed 12:01) https://x.com/elonmusk/status/2074931787533328622
+[26/07/08 12:05:11] @elonmusk - RT @mntruell: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class model that's fast and low cost. It's a significant step up o… (Wed 12:01) https://x.com/elonmusk/status/2074931911042957773
+[26/07/08 12:05:13] @elonmusk - Try out Grok 4.5 in Vercel! (Wed 12:02) https://x.com/elonmusk/status/2074932046632267901
+[26/07/08 12:05:15] @elonmusk - RT @SpaceXAI: Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers fronti… (Wed 12:02) https://x.com/elonmusk/status/2074932226639183939
+[26/07/08 13:00:18] @elonmusk - RT @KanekoaTheGreat: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Gang Inquiry" report. "The genesis of the rape gangs was th… (Wed 12:59) https://x.com/elonmusk/status/2074946473876185109
+[26/07/08 13:05:04] @elonmusk - RT @XFreeze: Grok 4.5 is now officially available in Grok Build......try it now https://pbs.twimg.com/media/HMuWa6kasAAxYGI.jpg (Wed 13:00) https://x.com/elonmusk/status/2074946859517309038
+[26/07/08 13:10:07] @elonmusk - Artificial Analysis assessment (Wed 13:07) https://x.com/elonmusk/status/2074948489792860456
+[26/07/08 13:35:19] @elonmusk - RT @SpaceXAI: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple… (Wed 13:32) https://x.com/elonmusk/status/2074954823338733805
+[26/07/08 13:40:09] @elonmusk - Grok groks engineering. Next month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company. (Wed 13:35) https://x.com/elonmusk/status/2074955486441492823
+[26/07/08 13:45:22] @elonmusk - Grok will be able to call Imagine as a tool in agentic mode for image/video generation. As Imagine keeps improving, this will be amazing for game developers! (Wed 13:39) https://x.com/elonmusk/status/2074956673630793891
+[26/07/08 14:10:06] @elonmusk - Grok 4.5 context window will upgrade to 1M probably by next week (Wed 14:08) https://x.com/elonmusk/status/2074963933199282491
+[26/07/08 14:10:08] @elonmusk - Grok 4.5 true usefulness is excellent (Wed 14:09) https://x.com/elonmusk/status/2074964196052107336
+[26/07/08 14:25:04] @elonmusk - RT @ArtificialAnlys: Grok 4.5 in Grok Build also stands out for its efficiency. Grok 4.5 in Grok Build cost $2.49 per task while Fable 5 in… (Wed 14:24) https://x.com/elonmusk/status/2074967839027364010
+[26/07/08 14:30:28] @elonmusk - @DrewPavlou In fairness, Fable is definitely better than Grok 4.5, but most tasks don’t require Fable-level capability (Wed 14:26) https://x.com/elonmusk/status/2074968423394578602
+[26/07/08 14:30:30] @elonmusk - RT @milichab: Grok 4.5 brings frontier performance across coding and knowledge work (Wed 14:26) https://x.com/elonmusk/status/2074968500779483503
+[26/07/08 14:35:10] @elonmusk - Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the GB300 hardware. Doubling or more of the current speed is probably achievable. (Wed 14:30) https://x.com/elonmusk/status/2074969374843154500
+[26/07/08 14:35:12] @elonmusk - Rate of improvement is accelerating. Users should notice a meaningful improvement in the usefulness of the Grok Build harness with our V9 foundation model (aka Grok 4.5) every week. (Wed 14:34) https://x.com/elonmusk/status/2074970378682724661
+[26/07/08 14:40:10] @elonmusk - Rate of improvement is 🚀🚀 (Wed 14:37) https://x.com/elonmusk/status/2074971034218860963
+[26/07/08 14:40:12] @elonmusk - RT @cb_doge: BREAKING: Tesla Cybertruck’s bulletproof body helped protect a toddler, an infant, and neighbors during a shooting. Cybertruc… (Wed 14:38) https://x.com/elonmusk/status/2074971308631159032
+[26/07/08 14:45:15] @elonmusk - Grok has always been very strong on law (Wed 14:40) https://x.com/elonmusk/status/2074971866662359519
+[26/07/08 23:40:09] @elonmusk - RT @Teslaconomics: Wow… within 5 minutes my kids built this game called the Tesla City with Grok 4.5. It’s a simple Tesla arcade game in… (Wed 23:38) https://x.com/elonmusk/status/2075107239111639224
+[26/07/08 23:45:10] @elonmusk - Cool that Grok 4.5 is #1 in some respects, even with respect to Fable 5 (Wed 23:42) https://x.com/elonmusk/status/2075108230754116018
+[26/07/08 23:45:12] @elonmusk - RT @Daniel_Farinax: Grok 4.5 is actually insane. I'm one step closer to launching my new 3D Home Plan Builder. Powered by Grok 4.5 and Gro… (Wed 23:43) https://x.com/elonmusk/status/2075108517430599848
+[26/07/08 23:45:14] @elonmusk - Neat (Wed 23:44) https://x.com/elonmusk/status/2075108735807074792
+[26/07/08 23:50:14] @elonmusk - RT @cb_doge: BREAKING: SpaceX’s Starship just got another lunar customer. Japan’s ispace will use SpaceX’s Starship for Moon cargo missions… (Wed 23:45) https://x.com/elonmusk/status/2075108943911641514
+[26/07/08 23:50:16] @elonmusk - RT @dvorahfr: Wow amazing Grok Imagine 😍 https://video.twimg.com/ext_tw_video/2074973406542409728/pu/vid/avc1/720x720/MfK_gM3cQjH8gCgd.mp4 (Wed 23:46) https://x.com/elonmusk/status/2075109360947069054
+[26/07/08 23:50:18] @elonmusk - RT @SawyerMerritt: Smart pet technology company Fi has just launched the world's first dog collar with @Starlink. Basically, you’ll know e… (Wed 23:49) https://x.com/elonmusk/status/2075110042739585264
+[26/07/08 23:55:14] @elonmusk - RT @nvidia: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and know… (Wed 23:50) https://x.com/elonmusk/status/2075110369832399162
+[26/07/08 23:55:16] @elonmusk - Yes (Wed 23:52) https://x.com/elonmusk/status/2075110841179902145
+[26/07/08 23:55:18] @elonmusk - @dvorahfr 🔥 (Wed 23:54) https://x.com/elonmusk/status/2075111385013354883
+[26/07/09 00:00:15] @elonmusk - Grok is making progress (Wed 23:56) https://x.com/elonmusk/status/2075111931682148855
+[26/07/09 00:00:17] @elonmusk - RT @TurkeyBeaver: Calling all exceptional civil and electrical engineers! The SpaceX Cape Starship team needs help building and scaling t… (Wed 23:57) https://x.com/elonmusk/status/2075112009717219440
+[26/07/09 00:00:19] @elonmusk - RT @BrianRoemmele: WOW! GROK 4.5 PRICES ARE NEAR OPEN SOURCE HOSTED PRICES! This will move many that have token cost fatigue in corporati… (Wed 23:57) https://x.com/elonmusk/status/2075112097139019802
+[26/07/09 00:00:21] @elonmusk - RT @kunchenguid: grok 4.5 made me give grok build a serious run today here's my honest first impression (non affiliated neutral view point… (Wed 23:59) https://x.com/elonmusk/status/2075112524127625461
