@@ -83082,3 +83082,21 @@
 [26/07/12 23:00:13] @elonmusk - @teslaownersSV True (Sun 22:57) https://x.com/elonmusk/status/2076546600135000275
 [26/07/12 23:00:15] @elonmusk - @jessalanfields Grok seems to be accelerating the fastest, at least for now (Sun 22:58) https://x.com/elonmusk/status/2076546904641438011
 [26/07/12 23:50:11] @elonmusk - The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to (Sun 23:46) https://x.com/elonmusk/status/2076558971905650718
+[26/07/13 00:10:15] @elonmusk - Using Grok agents in background mode (Mon 00:05) https://x.com/elonmusk/status/2076563677319209094
+[26/07/13 00:10:17] @elonmusk - RT @mikiovsh: Well shit - grok 4.5 is KILLING it it in my video studio evals! 6/33 -> 23/33 with ridiculous cost efficiency compared to 5.… (Mon 00:07) https://x.com/elonmusk/status/2076564143558074616
+[26/07/13 08:30:13] @elonmusk - Literally true https://video.twimg.com/ext_tw_video/2076249705260986368/pu/vid/avc1/796x718/atDKWwf8DAR9DRQB.mp4 (Mon 08:27) https://x.com/elonmusk/status/2076690060699684905
+[26/07/13 11:40:10] @elonmusk - @RomanGuy20 @Teslaconomics @SpaceXAI Their zero data retention policy fine print says they still retain data? Am I reading this right? (Mon 11:35) https://x.com/elonmusk/status/2076737284192285068
+[26/07/13 11:40:12] @elonmusk - SpaceX policy regarding data retention. It is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected. (Mon 11:38) https://x.com/elonmusk/status/2076737992689914215
+[26/07/13 11:45:18] @elonmusk - RT @elonmusk: @RomanGuy20 @Teslaconomics @SpaceXAI Their zero data retention policy fine print says they still retain data? Am I reading th… (Mon 11:40) https://x.com/elonmusk/status/2076738491954712917
+[26/07/13 11:50:14] @elonmusk - True. As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain. (Mon 11:45) https://x.com/elonmusk/status/2076739687658496209
+[26/07/13 11:50:16] @elonmusk - Progress (Mon 11:45) https://x.com/elonmusk/status/2076739857863385206
+[26/07/13 11:50:18] @elonmusk - RT @milichab: @Sudhie That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since lau… (Mon 11:46) https://x.com/elonmusk/status/2076740048335028734
+[26/07/13 11:50:20] @elonmusk - RT @SpaceXAI: @FarhanWritess If you run /privacy and change the setting, all previously synced data is deleted. (Mon 11:47) https://x.com/elonmusk/status/2076740203742466098
+[26/07/13 15:35:06] @elonmusk - True (Mon 15:32) https://x.com/elonmusk/status/2076796854973423971
+[26/07/13 16:00:17] @elonmusk - RT @nikitabier: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed… (Mon 15:58) https://x.com/elonmusk/status/2076803358027895272
+[26/07/13 16:00:20] @elonmusk - RT @JasonBud: @just_cameron The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected fo… (Mon 15:58) https://x.com/elonmusk/status/2076803446322131221
+[26/07/13 20:35:08] @elonmusk - RT @tetsuoai: Crazy what you can build with Grok 4.5 and Grok Build in minutes. https://pbs.twimg.com/media/HNH_mNIb0AEWMI6.png (Mon 20:32) https://x.com/elonmusk/status/2076872430513975424
+[26/07/13 20:35:11] @elonmusk - RT @XFreeze: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting… (Mon 20:34) https://x.com/elonmusk/status/2076872817690239299
+[26/07/13 22:45:15] @elonmusk - The woke mob had turned Twitter into Wormtongue to the World https://pbs.twimg.com/media/HNKmw-IWYAAt96B.jpg (Mon 22:44) https://x.com/elonmusk/status/2076905740531302479
+[26/07/13 22:55:05] @elonmusk - RT @kevinnbass: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusa… (Mon 22:52) https://x.com/elonmusk/status/2076907660784353785
+[26/07/13 23:00:20] @elonmusk - Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench (Mon 22:58) https://x.com/elonmusk/status/2076909201524203973
