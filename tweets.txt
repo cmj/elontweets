@@ -83171,3 +83171,41 @@
 [26/07/15 22:30:09] @elonmusk - @aaronburnett GPU average power consumption if it’s doing inference over the course of 24 hours is ~2/3 of its peak power, even if you’re super efficient. SpaceX AI Sat V1 peak power spec has been raised to ~250kW (battery-assisted), with average power of ~160kW. Will be able to handle an (Wed 22:28) https://x.com/elonmusk/status/2077626509615829213
 [26/07/15 22:45:12] @elonmusk - Arguing with NPCs is pointless (Wed 22:40) https://x.com/elonmusk/status/2077629400569278597
 [26/07/15 22:55:11] @elonmusk - @JohnTitor @aaronburnett 😂 (Wed 22:52) https://x.com/elonmusk/status/2077632373705838600
+[26/07/16 05:00:14] @elonmusk - RT @AJamesMcCarthy: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning https://video.twimg.com/amplify_video/2077722169375657984/vid/avc1/1080x1920/YCXWi-IAt6xo2jdh.mp4 (Thu 04:58) https://x.com/elonmusk/status/2077724643490750500
+[26/07/16 06:20:12] @elonmusk - RT @Starlink: Starlink and the @JAAGOFoundation in Bangladesh are providing connectivity to 30,000 students across remote schools, giving e… (Thu 06:19) https://x.com/elonmusk/status/2077744849269199058
+[26/07/16 06:20:14] @elonmusk - RT @Tesla: Buying a Tesla is easy Order within 2 mins on our website, then complete the entire process in the Tesla app (Thu 06:19) https://x.com/elonmusk/status/2077745044828614977
+[26/07/16 06:25:06] @elonmusk - RT @ScottPresler: OH MY GOSH! The House just voted 215-211 in favor of a special rules resolution, which instructs for the text of the… (Thu 06:20) https://x.com/elonmusk/status/2077745164169146532
+[26/07/16 06:30:18] @elonmusk - RT @BasedMikeLee: Rick Scott Is Right (Thu 06:26) https://x.com/elonmusk/status/2077746593395048587
+[26/07/16 06:35:13] @elonmusk - RT @milichab: Render mermaid charts in your CLI (Thu 06:32) https://x.com/elonmusk/status/2077748220931854467
+[26/07/16 06:35:15] @elonmusk - RT @stevenmarkryan: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top… (Thu 06:33) https://x.com/elonmusk/status/2077748394253009116
+[26/07/16 06:35:17] @elonmusk - RT @iam_smx: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employe… (Thu 06:33) https://x.com/elonmusk/status/2077748491045024212
+[26/07/16 10:05:09] @elonmusk - RT @SpaceX: Stacking Starship for Flight 13 https://video.twimg.com/amplify_video/2077756272489664513/vid/avc1/3840x2160/_3Uiw-r1kTY6wqm1.mp4 https://pbs.twimg.com/media/HNWsWOBXUAAZpbn.jpg https://pbs.twimg.com/media/HNWsYWDWUAAiucx.jpg https://pbs.twimg.com/media/HNWsYpNXUAAK8-R.jpg (Thu 10:02) https://x.com/elonmusk/status/2077801061343981703
+[26/07/16 10:15:11] @elonmusk - RT @aelluswamy: @SpaceXAI It’s been very fast, and a pleasure to use. Nice work! (Thu 10:10) https://x.com/elonmusk/status/2077803073083248998
+[26/07/16 12:10:10] @elonmusk - RT @Starlink: Starlink Mobile will be available in Italy with @FASTWEB. The service will keep customers connected via apps and text messag… (Thu 12:09) https://x.com/elonmusk/status/2077833087442940349
+[26/07/16 14:10:13] @elonmusk - @ArtificialAnlys Impressive (Thu 14:06) https://x.com/elonmusk/status/2077862536876023911
+[26/07/16 14:25:07] @elonmusk - RT @milichab: Extremely strong at CAD and spatial reasoning (Thu 14:21) https://x.com/elonmusk/status/2077866243097346075
+[26/07/16 14:30:17] @elonmusk - Starlink now available in Côte d'Ivoire! (Thu 14:26) https://x.com/elonmusk/status/2077867371956412545
+[26/07/16 14:30:19] @elonmusk - RT @Kristennetten: Love the new Starship Schematics T-shirt sold by SpaceX https://pbs.twimg.com/media/HNXl3o4aQAE1NSO.jpg https://pbs.twimg.com/media/HNXl3o4agAAlCch.jpg (Thu 14:28) https://x.com/elonmusk/status/2077867958785691952
+[26/07/16 15:00:31] @elonmusk - Tesla now in Uruguay (Thu 14:57) https://x.com/elonmusk/status/2077875206702448814
+[26/07/16 15:05:18] @elonmusk - RT @XFreeze: We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other space programs, this is years… (Thu 15:02) https://x.com/elonmusk/status/2077876568790028645
+[26/07/16 15:05:20] @elonmusk - @tobi True (Thu 15:03) https://x.com/elonmusk/status/2077876753830232263
+[26/07/16 15:05:22] @elonmusk - @scaling01 Sensible self-awareness (Thu 15:03) https://x.com/elonmusk/status/2077876921908482303
+[26/07/16 15:10:17] @elonmusk - RT @jamesdouma: Today I’m really feeling the acceleration. (Thu 15:09) https://x.com/elonmusk/status/2077878386240717083
+[26/07/16 15:15:15] @elonmusk - RT @finkd: A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter. (Thu 15:10) https://x.com/elonmusk/status/2077878690726195376
+[26/07/16 15:15:17] @elonmusk - RT @ARKInvest: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight… (Thu 15:11) https://x.com/elonmusk/status/2077878804895134050
+[26/07/16 15:15:19] @elonmusk - @wholemars Where is John Galt? (Thu 15:13) https://x.com/elonmusk/status/2077879243707400583
+[26/07/16 15:25:06] @elonmusk - To understand more about Starship (Thu 15:24) https://x.com/elonmusk/status/2077882072950096042
+[26/07/16 15:30:22] @elonmusk - RT @techdevnotes: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information https://pbs.twimg.com/media/HNV7qlPa4AA3Lxu.jpg (Thu 15:28) https://x.com/elonmusk/status/2077883067272769915
+[26/07/16 16:00:16] @elonmusk - Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days. (Thu 15:55) https://x.com/elonmusk/status/2077890013841310149
+[26/07/16 16:00:18] @elonmusk - @IntCyberDigest Linus is right, as usual (Thu 15:57) https://x.com/elonmusk/status/2077890512095220199
+[26/07/16 16:00:20] @elonmusk - @mark_k True (Thu 15:58) https://x.com/elonmusk/status/2077890677677887624
+[26/07/16 17:05:09] @elonmusk - To be confident of a good flight, 2 Raptors will be removed & replaced. Most probable launch timing is early next week. (Thu 17:02) https://x.com/elonmusk/status/2077906757641183445
+[26/07/16 17:45:13] @elonmusk - @PeterDiamandis True (Thu 17:43) https://x.com/elonmusk/status/2077917131920789591
+[26/07/16 17:50:11] @elonmusk - Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude (Thu 17:47) https://x.com/elonmusk/status/2077917951957643693
+[26/07/16 17:50:13] @elonmusk - @dvorahfr 🔥 (Thu 17:47) https://x.com/elonmusk/status/2077918086854836373
+[26/07/16 23:45:10] @elonmusk - https://video.twimg.com/amplify_video/2077753125717377024/vid/avc1/1920x1080/qeB4oH_UCdYvnmbz.mp4 (Thu 23:40) https://x.com/elonmusk/status/2078006929188606315
+[26/07/16 23:45:12] @elonmusk - Grok Build upgrades (Thu 23:44) https://x.com/elonmusk/status/2078007993296179568
+[26/07/16 23:50:10] @elonmusk - Grok Imagine (Thu 23:48) https://x.com/elonmusk/status/2078008818764505356
+[26/07/16 23:55:06] @elonmusk - @ArtemisConsort Yeah (Thu 23:50) https://x.com/elonmusk/status/2078009334609461603
+[26/07/17 00:00:18] @elonmusk - RT @kentcdodds: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software. (Thu 23:57) https://x.com/elonmusk/status/2078011289696137669
+[26/07/17 00:00:20] @elonmusk - @tunguz Yup (Thu 23:59) https://x.com/elonmusk/status/2078011606567407820
