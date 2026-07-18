@@ -83209,3 +83209,60 @@
 [26/07/16 23:55:06] @elonmusk - @ArtemisConsort Yeah (Thu 23:50) https://x.com/elonmusk/status/2078009334609461603
 [26/07/17 00:00:18] @elonmusk - RT @kentcdodds: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software. (Thu 23:57) https://x.com/elonmusk/status/2078011289696137669
 [26/07/17 00:00:20] @elonmusk - @tunguz Yup (Thu 23:59) https://x.com/elonmusk/status/2078011606567407820
+[26/07/17 00:25:05] @elonmusk - RT @no4core: @saneord also 29 days ago. https://pbs.twimg.com/media/HNZlX0caEAAuOJM.jpg (Fri 00:24) https://x.com/elonmusk/status/2078018021507932480
+[26/07/17 03:10:11] @elonmusk - @StateDept True (Fri 03:08) https://x.com/elonmusk/status/2078059241701601570
+[26/07/17 03:40:11] @elonmusk - RT @XFreeze: Turns out Elon was completely right The coding moat is disappearing in real time https://pbs.twimg.com/media/HNbCmKwaAAAYkqs.jpg (Fri 03:36) https://x.com/elonmusk/status/2078066204288143852
+[26/07/17 03:40:13] @elonmusk - @wil_da_beast630 😂 (Fri 03:39) https://x.com/elonmusk/status/2078067051390746713
+[26/07/17 05:00:12] @elonmusk - This is messed up (Fri 04:56) https://x.com/elonmusk/status/2078086509052227916
+[26/07/17 08:55:12] @elonmusk - RT @america: Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally regist… (Fri 08:53) https://x.com/elonmusk/status/2078146099701850249
+[26/07/17 10:00:28] @elonmusk - @GavinSBaker Interesting (Fri 09:56) https://x.com/elonmusk/status/2078162023657922728
+[26/07/17 12:05:10] @elonmusk - @PeterDiamandis I said SpaceX will be worth more than Earth if we achieve our goals. Obviously true. (Fri 12:04) https://x.com/elonmusk/status/2078194195924136159
+[26/07/17 12:10:07] @elonmusk - RT @yunta_tsai: Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts are the reasoning steps.… (Fri 12:05) https://x.com/elonmusk/status/2078194299385049273
+[26/07/17 12:10:10] @elonmusk - @tunguz There won’t be dollars or scarcity of goods & services for individual consumption in the future (Fri 12:07) https://x.com/elonmusk/status/2078194851644838363
+[26/07/17 12:10:11] @elonmusk - @Jason Yeah (Fri 12:07) https://x.com/elonmusk/status/2078194912286130462
+[26/07/17 12:10:13] @elonmusk - @enzo_gte Interesting (Fri 12:08) https://x.com/elonmusk/status/2078195261315133534
+[26/07/17 12:15:11] @elonmusk - Grok 4.5 is arguably #1 when taking speed and cost into account (Fri 12:10) https://x.com/elonmusk/status/2078195617877143895
+[26/07/17 12:35:10] @elonmusk - Cool (Fri 12:30) https://x.com/elonmusk/status/2078200590765535431
+[26/07/17 15:25:06] @elonmusk - @TimSweeneyEpic I think you’re right (Fri 15:20) https://x.com/elonmusk/status/2078243454203658356
+[26/07/17 15:25:08] @elonmusk - @brivael The survival probability of firms who maintain a significant short position in SpaceX over time is very low (Fri 15:23) https://x.com/elonmusk/status/2078244138626031912
+[26/07/17 15:50:13] @elonmusk - @tunguz Actually, yes (Fri 15:47) https://x.com/elonmusk/status/2078250204860457170
+[26/07/17 15:50:15] @elonmusk - Grok has the best value for coding (Fri 15:49) https://x.com/elonmusk/status/2078250748920414692
+[26/07/17 17:05:07] @elonmusk - @jordanbpeterson 💯 (Fri 17:00) https://x.com/elonmusk/status/2078268614491230283
+[26/07/17 17:05:09] @elonmusk - RT @jordanbpeterson: We think of this evil as Marxism. In reality, Marxism is nothing more or less than the current instantiation of a much… (Fri 17:00) https://x.com/elonmusk/status/2078268654248984624
+[26/07/17 17:05:11] @elonmusk - @HeidiBriones 😂 (Fri 17:01) https://x.com/elonmusk/status/2078268915201782023
+[26/07/17 17:05:12] @elonmusk - @ArtificialAnlys @SpaceXAI We live in the most interesting times (Fri 17:03) https://x.com/elonmusk/status/2078269288138350773
+[26/07/17 17:05:14] @elonmusk - don’t forget (Fri 17:03) https://x.com/elonmusk/status/2078269475351069176
+[26/07/17 17:05:16] @elonmusk - @TheBabylonBee 😂 (Fri 17:04) https://x.com/elonmusk/status/2078269585187340556
+[26/07/17 17:05:18] @elonmusk - RT @TheBabylonBee: https://pbs.twimg.com/media/HNd-PIWXMAA0h0C.jpg (Fri 17:04) https://x.com/elonmusk/status/2078269645350470105
+[26/07/17 17:10:13] @elonmusk - @SciGuySpace Indeed (sigh) (Fri 17:06) https://x.com/elonmusk/status/2078270095332155526
+[26/07/17 18:30:13] @elonmusk - @minchoi Our 2T model, which is better than our 1.5T in every way, will finish initial training next week. It might be able to exceed Kimi, but with speed and token efficiency close to our 1.5T (aka Grok 4.5). (Fri 18:25) https://x.com/elonmusk/status/2078289996323148076
+[26/07/17 18:30:16] @elonmusk - RT @minchoi: Grok 4.5 is only 1.5T parameters. Kimi K3 is 2.8T... and costs 3× more per task. SpaceXAI cracked intelligence efficiency.… (Fri 18:25) https://x.com/elonmusk/status/2078290023686783151
+[26/07/17 18:30:17] @elonmusk - Yes (Fri 18:26) https://x.com/elonmusk/status/2078290383977562472
+[26/07/17 18:30:19] @elonmusk - @IanCarrollShow True (Fri 18:28) https://x.com/elonmusk/status/2078290709870686300
+[26/07/17 18:40:11] @elonmusk - RT @XFreeze: Grok TTS just took the top spot on The Humanness Index It scored 94 for humanness....just six points below the human baseline… (Fri 18:35) https://x.com/elonmusk/status/2078292639649083562
+[26/07/17 19:25:07] @elonmusk - RT @naoufal_elh: Grok 4.5 uses less tokens than any other big model, performance great on almost all tasks, cost you cheaper than any big m… (Fri 19:20) https://x.com/elonmusk/status/2078303978765328689
+[26/07/17 19:25:08] @elonmusk - RT @minchoi: @elonmusk Can't wait! Grok 4.5 has been amazing already (Fri 19:21) https://x.com/elonmusk/status/2078304197687103860
+[26/07/17 19:25:10] @elonmusk - @AndrewCurran_ Yeah, Grok 4.6 (Fri 19:22) https://x.com/elonmusk/status/2078304308798304299
+[26/07/17 19:35:15] @elonmusk - @Michae1Hinrichs @minchoi I agree! (Fri 19:30) https://x.com/elonmusk/status/2078306490394226896
+[26/07/17 19:35:17] @elonmusk - @wil_da_beast630 💯 (Fri 19:33) https://x.com/elonmusk/status/2078307077940826192
+[26/07/17 20:15:17] @elonmusk - @arafatkatze ❤️ (Fri 20:10) https://x.com/elonmusk/status/2078316352826122520
+[26/07/17 20:15:19] @elonmusk - @aaronburnett Traffic will get much worse with robot cars, because the pain of driving yourself is not there anymore! (Fri 20:11) https://x.com/elonmusk/status/2078316586667008306
+[26/07/17 20:20:10] @elonmusk - @SERobinsonJr Cool (Fri 20:15) https://x.com/elonmusk/status/2078317672115196078
+[26/07/17 20:25:04] @elonmusk - @TheBabylonBee 😂 (Fri 20:20) https://x.com/elonmusk/status/2078318929525539013
+[26/07/17 20:25:06] @elonmusk - RT @ArthurMacwaters: I have yet to find an example where wearing a short-sleeved white button-up shirt and tie did not imply absolutely PEA… (Fri 20:22) https://x.com/elonmusk/status/2078319477490372994
+[26/07/17 20:25:08] @elonmusk - @TheBabylonBee 😂 (Fri 20:22) https://x.com/elonmusk/status/2078319524206592071
+[26/07/17 20:25:10] @elonmusk - Try Grok 4.5 (Fri 20:23) https://x.com/elonmusk/status/2078319826263474481
+[26/07/17 20:30:15] @elonmusk - @engineers_feed Kinetic energy being equal to half mass times velocity squared (the general case of the relativity equation) is an insanely big deal in everyday life. That and the surface to volume ratio explain so much about our reality! (Fri 20:28) https://x.com/elonmusk/status/2078320873505771668
+[26/07/17 20:30:17] @elonmusk - @Vvikramai I thought this was generate by AI at first (Fri 20:29) https://x.com/elonmusk/status/2078321287940780118
+[26/07/17 20:35:19] @elonmusk - @wholemars The car will start to remember your specific interventions and match each person’s individual preferences (Fri 20:32) https://x.com/elonmusk/status/2078321996098588808
+[26/07/17 20:35:21] @elonmusk - @DavidSacks @kevinnbass True (Fri 20:33) https://x.com/elonmusk/status/2078322162998325552
+[26/07/17 20:35:23] @elonmusk - https://video.twimg.com/amplify_video/2078225009227546624/vid/avc1/1080x1920/5h_9q4hbWYCKwlFN.mp4 (Fri 20:34) https://x.com/elonmusk/status/2078322392036790316
+[26/07/17 21:10:11] @elonmusk - RT @Rothmus: On this day in 1918 the Bolsheviks herded Tsar Nicholas II, Empress Alexandra, and their five children into a basement in Yeka… (Fri 21:08) https://x.com/elonmusk/status/2078331140541157641
+[26/07/17 21:10:14] @elonmusk - RT @tesla_na: Tesla Diner is turning 1 on July 21st, so we're throwing a party Come swing by for a day full of fun: – Cybercab on display… (Fri 21:09) https://x.com/elonmusk/status/2078331262977139027
+[26/07/17 22:15:13] @elonmusk - RT @MdeZegher: The beginning of the Megacharger network Build-out is focused on the most important Semi routes and depots first. Follow ou… (Fri 22:13) https://x.com/elonmusk/status/2078347476608655472
+[26/07/17 22:15:15] @elonmusk - RT @yunta_tsai: My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM t… (Fri 22:13) https://x.com/elonmusk/status/2078347503603163580
+[26/07/17 22:30:16] @elonmusk - @brivael When a country has talent like Alizée and instead shows the world middle-aged men in makeup 🤦‍♂️ https://m.youtube.com/watch?v=LDgFIwZc2HI&ra=m (Fri 22:27) https://x.com/elonmusk/status/2078350853791010847
+[26/07/17 23:35:11] @elonmusk - Easy predictions https://video.twimg.com/amplify_video/2078095580375531520/vid/avc1/1920x1080/NeeFK3qJrAFYiTK2.mp4 (Fri 23:31) https://x.com/elonmusk/status/2078366941199171689
+[26/07/17 23:40:10] @elonmusk - @the_jefferymead True (Fri 23:37) https://x.com/elonmusk/status/2078368538591465710
+[26/07/17 23:40:12] @elonmusk - Grok Build improves almost every day (Fri 23:38) https://x.com/elonmusk/status/2078368743634149460
+[26/07/17 23:40:14] @elonmusk - Mass drivers on the mf Moon!! (Fri 23:38) https://x.com/elonmusk/status/2078368917404151868
