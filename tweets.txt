@@ -86071,3 +86071,71 @@
 [26/09/13 18:25:14] @elonmusk - Starlink (Sun 18:20) https://x.com/elonmusk/status/2099307306685009955
 [26/09/13 18:25:16] @elonmusk - @techdevnotes Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL (Sun 18:24) https://x.com/elonmusk/status/2099308197802631191
 [26/09/13 19:50:16] @elonmusk - RT @tesla_na: FSD Supervised will change your life (Sun 19:48) https://x.com/elonmusk/status/2099329445748215819
+[26/09/14 03:15:10] @elonmusk - RT @XFreeze: Grok Bot Galaxy starts tomorrow (Sep 15) 🚀 If you’re planning to tune in, here’s the full schedule so you don’t miss the sess… (Mon 03:14) https://x.com/elonmusk/status/2099441706244456672
+[26/09/14 03:20:15] @elonmusk - RT @Tesla_India: Happy Ganesh Chaturthi https://pbs.twimg.com/media/HSJ1xXCa4AAHmZk.jpg (Mon 03:14) https://x.com/elonmusk/status/2099441753589764421
+[26/09/14 03:20:17] @elonmusk - @maciekmikula True (Mon 03:15) https://x.com/elonmusk/status/2099441915385029057
+[26/09/14 03:30:13] @elonmusk - @aelluswamy True, a Tesla is a personal robot transporter (Mon 03:27) https://x.com/elonmusk/status/2099444910814327289
+[26/09/14 03:30:15] @elonmusk - RT @denispleiades: @yunta_tsai Meanwhile in Germany summon is limited to 6 meters, which is not even usable because you have to be so close… (Mon 03:28) https://x.com/elonmusk/status/2099445110802956610
+[26/09/14 03:30:17] @elonmusk - @denispleiades @yunta_tsai Hopefully, this can be addressed soon with regulators in Germany (Mon 03:28) https://x.com/elonmusk/status/2099445228348301452
+[26/09/14 03:35:11] @elonmusk - Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving (Mon 03:30) https://x.com/elonmusk/status/2099445708277387433
+[26/09/14 03:35:13] @elonmusk - RT @readswithravi: “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Richard… (Mon 03:31) https://x.com/elonmusk/status/2099445951542788573
+[26/09/14 03:35:15] @elonmusk - RT @TeslaAUNZ: FSD Supervised is making driving safer & now cheaper Zurich is the first insurer in Australia to offer Tesla owners lower p… (Mon 03:33) https://x.com/elonmusk/status/2099446445455639008
+[26/09/14 03:50:14] @elonmusk - Grok Bot now lets your route through your local machine (Mon 03:49) https://x.com/elonmusk/status/2099450564698423732
+[26/09/14 03:55:13] @elonmusk - @beffjezos I’ve already been to Berghain twice, but declined the third time when they had rainbow peace messaging in giant letters on their wall, which was lame (Mon 03:53) https://x.com/elonmusk/status/2099451530042544215
+[26/09/14 04:10:14] @elonmusk - True (Mon 04:05) https://x.com/elonmusk/status/2099454402364920276
+[26/09/14 04:10:16] @elonmusk - People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the foreword. I was thinking about AI safety long before 2014. (Mon 04:08) https://x.com/elonmusk/status/2099455308284219727
+[26/09/14 04:10:18] @elonmusk - @doganuraldesign Thanks ❤️ (Mon 04:09) https://x.com/elonmusk/status/2099455422847463524
+[26/09/14 04:10:20] @elonmusk - @AdamLowisz That will be Grok 5 (Mon 04:09) https://x.com/elonmusk/status/2099455592670634034
+[26/09/14 04:20:11] @elonmusk - @itslueul Grok 4.7 should be roughly on par with Opus 5.0, not 5.1. Better in some ways, worse in others. We need to fix multimodal performance. Grok 4.8 will be a noticeable improvement. Grok 4.9 is probably Astra/Fable class. Grok 5 maybe better than anything. We shall see. (Mon 04:19) https://x.com/elonmusk/status/2099458047408013751
+[26/09/14 04:25:10] @elonmusk - @brivael True (Mon 04:20) https://x.com/elonmusk/status/2099458273141305463
+[26/09/14 04:25:12] @elonmusk - Gaming ftw (Mon 04:23) https://x.com/elonmusk/status/2099459125579071512
+[26/09/14 04:30:11] @elonmusk - @DrKnowItAll16 @DillonLoomis @techdevnotes It’s unequivocally better than the 2.1T that was trained with Jax, but we made some mistakes that were only corrected mid run and we have greatly improved the data quality in the past few months. The upcoming 3T run with improved internal training software and much better data (Mon 04:29) https://x.com/elonmusk/status/2099460418418647147
+[26/09/14 04:35:10] @elonmusk - Starlink supporting rural communities in Bolivia 🇧🇴 (Mon 04:30) https://x.com/elonmusk/status/2099460669326188591
+[26/09/14 04:35:12] @elonmusk - RT @KnowledgeArchiv: "If a perfectly moral man entered this world, he would be humiliated and impaled" – Plato, The Republic (375 BC) http… (Mon 04:31) https://x.com/elonmusk/status/2099460964491882994
+[26/09/14 04:35:15] @elonmusk - A welfare state and free immigration will obviously bankrupt any country. AI + robotics is the only path to universal high income for everyone on Earth. (Mon 04:34) https://x.com/elonmusk/status/2099461843269906606
+[26/09/14 04:40:16] @elonmusk - @TheBabylonBee 😂 (Mon 04:36) https://x.com/elonmusk/status/2099462166675906890
+[26/09/14 04:40:18] @elonmusk - RT @TheBabylonBee: 'Well Done,' Says God To Man Who Spent Life Arguing In The Comments Section https://buff.ly/3OMGuDB (Mon 04:36) https://x.com/elonmusk/status/2099462184015147138
+[26/09/14 04:40:20] @elonmusk - @aphysicist Yeah (Mon 04:36) https://x.com/elonmusk/status/2099462395026346294
+[26/09/14 04:50:08] @elonmusk - RT @teslaownersSV: Elon Musk on scaling AI beyond Earth. "To reach a terawatt of compute per year, we need about 10 million tons to orbit… (Mon 04:45) https://x.com/elonmusk/status/2099464648869200245
+[26/09/14 04:55:06] @elonmusk - @GadSaad @jonstewart If there was a prize for “most skilled propagandist”, Jon Stewart would win (Mon 04:50) https://x.com/elonmusk/status/2099465702935572832
+[26/09/14 04:55:08] @elonmusk - RT @Tesla_AI: FSD Supervised v14.3.9 starting to roll out shortly This release includes a new active safety feature set: FSD Supervised ca… (Mon 04:53) https://x.com/elonmusk/status/2099466559144054919
+[26/09/14 07:10:11] @elonmusk - @aaronburnett Our training (aka pre-training) software is now the internally developed C/C++ stack, which was written primarily by the Starlink software team. This is awesome and probably best in industry. However, our reinforcement learning stack is still somewhat of a legacy pile of many (Mon 07:07) https://x.com/elonmusk/status/2099500295931789493
+[26/09/14 07:20:12] @elonmusk - AI data centers resulting in lower electricity prices for consumers (Mon 07:18) https://x.com/elonmusk/status/2099503167079674202
+[26/09/14 07:25:06] @elonmusk - @tomselliott I’ve been talk about it for an eon (Mon 07:22) https://x.com/elonmusk/status/2099503956510519651
+[26/09/14 07:30:10] @elonmusk - @JayViperTV @itslueul @imagine Will investigate (Mon 07:24) https://x.com/elonmusk/status/2099504677490507782
+[26/09/14 07:30:12] @elonmusk - True (Mon 07:28) https://x.com/elonmusk/status/2099505692805582871
+[26/09/14 08:00:19] @elonmusk - RT @SpaceXAIMemphis: Great news for Whitehaven!   Some recent upgrades are complete at Fairley High School – students and faculty are now e… (Mon 07:55) https://x.com/elonmusk/status/2099512441864368622
+[26/09/14 09:55:22] @elonmusk - @dogeofficialceo Not wrong 😂 (Mon 09:54) https://x.com/elonmusk/status/2099542193849393359
+[26/09/14 10:00:24] @elonmusk - @PatrickToulme Our C/C++ training stack was written by humans. AI is not yet good enough for extremely high performance software (but it will be). (Mon 09:56) https://x.com/elonmusk/status/2099542714974896467
+[26/09/14 10:15:15] @elonmusk - RT @poteto: uh oh we got ~70k signups for the livestream 🫪 chat are we cooked? send us some ideas! https://video.twimg.com/tweet_video/HSL7TqFaoAAUIZJ.mp4 (Mon 10:12) https://x.com/elonmusk/status/2099546758967709971
+[26/09/14 10:15:17] @elonmusk - RT @Teslaconomics: Every morning, before we even leave the house to school, my Grok Bot has already generated and printed fresh math worksh… (Mon 10:12) https://x.com/elonmusk/status/2099546943915544957
+[26/09/14 10:20:13] @elonmusk - Play video games or be dumb! Those are your only 2 choices 😂 (Mon 10:17) https://x.com/elonmusk/status/2099548187245584550
+[26/09/14 12:05:07] @elonmusk - @thackerpd @bariweiss Hmm (Mon 12:04) https://x.com/elonmusk/status/2099574938306789639
+[26/09/14 12:05:08] @elonmusk - @yunta_tsai 😂 (Mon 12:04) https://x.com/elonmusk/status/2099574993088647463
+[26/09/14 12:25:17] @elonmusk - @grok @RelaxingNews @PatrickToulme 🎯 (Mon 12:22) https://x.com/elonmusk/status/2099579622866256128
+[26/09/14 12:25:19] @elonmusk - RT @grok: @RelaxingNews @elonmusk @PatrickToulme C/C++ provide direct hardware and memory control with near-zero overhead, delivering the r… (Mon 12:22) https://x.com/elonmusk/status/2099579665702678746
+[26/09/14 12:25:21] @elonmusk - @grok @RelaxingNews @PatrickToulme And assembly with direct calls to hardware accelerators in the NVidia SMs (Mon 12:24) https://x.com/elonmusk/status/2099580116976246948
+[26/09/14 12:45:09] @elonmusk - RT @cb_doge: BREAKING: Every rural school in Neuquén, Argentina, is now connected to internet. Thanks to Starlink. 🇦🇷 Since 2024, the prov… (Mon 12:42) https://x.com/elonmusk/status/2099584560614805943
+[26/09/14 12:45:11] @elonmusk - @nakamura193 I can’t make it to Tokyo, but happy to try out your game from Texas (Mon 12:44) https://x.com/elonmusk/status/2099584983681626140
+[26/09/14 13:00:19] @elonmusk - Charge your Tesla Semi 😉 (Mon 12:59) https://x.com/elonmusk/status/2099588955796554233
+[26/09/14 13:05:07] @elonmusk - @poteto @bot ❤️ (Mon 13:00) https://x.com/elonmusk/status/2099589200089600240
+[26/09/14 20:45:10] @elonmusk - Tesla self-driving is amazing (Mon 20:44) https://x.com/elonmusk/status/2099705926332690482
+[26/09/14 20:55:12] @elonmusk - RT @theallinpod: MUST SEE: Amazing moment as President Trump calls Nvidia CEO Jensen Huang while he's on stage at the All-In Summit. @POTU… (Mon 20:50) https://x.com/elonmusk/status/2099707354996527115
+[26/09/14 20:55:14] @elonmusk - RT @OcrazioCornPop: 🚨 GOVT CAUSED THE GREAT DEPRESSION: Milton Friedman describes how the Federal Reserve made the Great Depression much wo… (Mon 20:52) https://x.com/elonmusk/status/2099707921848279259
+[26/09/14 21:25:10] @elonmusk - Grok @Bot summary (Mon 21:20) https://x.com/elonmusk/status/2099714967113015716
+[26/09/14 21:40:14] @elonmusk - RT @chamath: This was surreal (Mon 21:37) https://x.com/elonmusk/status/2099719319185703251
+[26/09/14 21:40:16] @elonmusk - RT @adamcarolla: I thought white supremacy was the big issue (Mon 21:38) https://x.com/elonmusk/status/2099719552451981623
+[26/09/14 22:00:13] @elonmusk - RT @wintonARK: Sadly, California is the only state in the union that prohibits insurers from pricing based on how people actually drive. S… (Mon 21:56) https://x.com/elonmusk/status/2099724086112907752
+[26/09/14 22:00:15] @elonmusk - RT @cb_doge: The world’s richest man is living in an Airstream trailer in Memphis. “This is Elon, by the way, doing what people don’t beli… (Mon 21:57) https://x.com/elonmusk/status/2099724139791548928
+[26/09/14 22:45:10] @elonmusk - RT @cb_doge: ELON MUSK: “Physics is a harsh judge. There’s no fooling physics. Physics is the law, and everything else is a recommendation.… (Mon 22:40) https://x.com/elonmusk/status/2099735034101907462
+[26/09/14 22:50:08] @elonmusk - This is the way (Mon 22:48) https://x.com/elonmusk/status/2099737081756930206
+[26/09/14 22:55:09] @elonmusk - 4D-Chess https://video.twimg.com/amplify_video/2099719144518344704/vid/avc1/1920x1080/vMzT0XSRhhdKZ4jC.mp4 (Mon 22:51) https://x.com/elonmusk/status/2099737765260763348
+[26/09/14 22:55:11] @elonmusk - RT @kevin_smith45: This might be the best political chart ever made… https://pbs.twimg.com/media/HSN_hB5WgAAc3Qt.jpg (Mon 22:52) https://x.com/elonmusk/status/2099738149278663057
+[26/09/14 23:00:15] @elonmusk - All-In (Mon 22:56) https://x.com/elonmusk/status/2099739227499942339
+[26/09/14 23:00:17] @elonmusk - Physics is a harsh judge (Mon 22:58) https://x.com/elonmusk/status/2099739543360438774
+[26/09/14 23:00:20] @elonmusk - Wow (Mon 22:59) https://x.com/elonmusk/status/2099739744598962225
+[26/09/14 23:00:21] @elonmusk - RT @cb_doge: ELON MUSK: I saw some pretty funny jokes on 𝕏. One of them I saw was: 'Your girlfriend's a 10, but she's a benchmark maxxer.'… (Mon 22:59) https://x.com/elonmusk/status/2099739838786257174
+[26/09/14 23:15:10] @elonmusk - RT @XFreeze: Elon just gave a much more practical explanation of the current AI safety problem....and laid out a practical framework for ma… (Mon 23:12) https://x.com/elonmusk/status/2099743177087291406
+[26/09/14 23:20:13] @elonmusk - True (Mon 23:15) https://x.com/elonmusk/status/2099743954707067058
+[26/09/14 23:20:15] @elonmusk - Slovenia 🇸🇮 🙌 (Mon 23:17) https://x.com/elonmusk/status/2099744349017747493
+[26/09/14 23:20:17] @elonmusk - RT @altcap: Trump calling @JensenHuang live during @theallinpod interview. “The grt thing about Jensen is that he can create the best AI ch… (Mon 23:19) https://x.com/elonmusk/status/2099744950116122692
